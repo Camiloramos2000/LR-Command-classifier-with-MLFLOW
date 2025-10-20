@@ -19,25 +19,25 @@ It focuses on building a complete ML pipeline, from preprocessing to model regis
 # Hyperparameters
 
 <div style="text-align: center;">
-   <img src="images/parameters.png" alt="parameters"  width="50%" height="50%" >
+   <img src="parameters.png" alt="parameters"  width="50%" height="50%" >
 </div>
 
 # Metrics
 <div style="text-align: center;">
-   <img src="images/parameters.png" alt="Metrics"  width="50%" height="50%" >
+   <img src="parameters.png" alt="Metrics"  width="50%" height="50%" >
 </div>
 
 3. Use `mlflow.sklearn.log_model()` to **save and version** the trained model.
 # code
 <div style="text-align: center;">
-   <img src="images/register.png" alt="register_code"  width="50%" height="50%" >
+   <img src="register.png" alt="register_code"  width="50%" height="50%" >
 </div>
 
 4. Register the model in the **MLflow Model Registry** with a unique name.
 
 # Model
 <div style="text-align: center;">
-   <img src="images/models.png" alt="models"  width="50%" height="50%" >
+   <img src="models.png" alt="models"  width="50%" height="50%" >
 </div>
 
 5. Promote the model across lifecycle stages:
@@ -48,24 +48,24 @@ It focuses on building a complete ML pipeline, from preprocessing to model regis
    
 # Stage transition
 <div style="text-align: center;">
-   <img src="images/stage.png" alt="stage"  width="50%" height="50%" >
+   <img src="stage.png" alt="stage"  width="50%" height="50%" >
 </div>
 
 # Stage transition in MLFLOW UI
 <div style="text-align: center;">
-   <img src="images/stage_mlflow.png" alt="stage_mlflow"  width="50%" height="50%" >
+   <img src="stage_mlflow.png" alt="stage_mlflow"  width="50%" height="50%" >
 </div>
 
 6. Observe model versions, descriptions, and performance metrics in the MLflow UI.
 
 # versions with descriptions
 <div style="text-align: center;">
-   <img src="images/versions.png" alt="stage_mlflow"  width="50%" height="50%" >
+   <img src="versions.png" alt="stage_mlflow"  width="50%" height="50%" >
 </div>
 
 # versions with descriptions
 <div style="text-align: center;">
-   <img src="images/versions.png" alt="stage_mlflow"  width="50%" height="50%" >
+   <img src="versions.png" alt="stage_mlflow"  width="50%" height="50%" >
 </div>
 
 
