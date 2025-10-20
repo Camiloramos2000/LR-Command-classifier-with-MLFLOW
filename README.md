@@ -22,7 +22,8 @@ It focuses on building a complete ML pipeline, from preprocessing to model regis
 <div style="text-align: center;">
    <img src="parameters.png" alt="parameters"  width="50%" height="50%" >
 </div>
-#### Metrics
+
+####  Metrics
 <div style="text-align: center;">
    <img src="parameters.png" alt="Metrics"  width="50%" height="50%" >
 </div>
@@ -30,6 +31,7 @@ It focuses on building a complete ML pipeline, from preprocessing to model regis
 ---
 
 ### 3. Use `mlflow.sklearn.log_model()` to **save and version** the trained model.
+
 #### code
 <div style="text-align: center;">
    <img src="register.png" alt="register_code"  width="50%" height="50%" >
