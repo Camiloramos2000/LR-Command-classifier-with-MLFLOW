@@ -20,12 +20,12 @@ It focuses on building a complete ML pipeline, from preprocessing to model regis
 #### Hyperparameters
 
 <div style="text-align: center;">
-   <img src="parameters.png" alt="parameters"  width="50%" height="50%" >
+   <img src="images/parameters.png" alt="parameters"  width="50%" height="50%" >
 </div>
 
 ####  Metrics
 <div style="text-align: center;">
-   <img src="parameters.png" alt="Metrics"  width="50%" height="50%" >
+   <img src="images/parameters.png" alt="Metrics"  width="50%" height="50%" >
 </div>
 
 ---
@@ -34,7 +34,7 @@ It focuses on building a complete ML pipeline, from preprocessing to model regis
 
 #### code
 <div style="text-align: center;">
-   <img src="register.png" alt="register_code"  width="50%" height="50%" >
+   <img src="images/register.png" alt="register_code"  width="50%" height="50%" >
 </div>
 
 ---
@@ -43,7 +43,7 @@ It focuses on building a complete ML pipeline, from preprocessing to model regis
 
 #### Model
 <div style="text-align: center;">
-   <img src="models.png" alt="models"  width="50%" height="50%" >
+   <img src="images/models.png" alt="models"  width="50%" height="50%" >
 </div>
 
 ---
@@ -56,12 +56,12 @@ It focuses on building a complete ML pipeline, from preprocessing to model regis
    
 #### Stage transition
 <div style="text-align: center;">
-   <img src="stage.png" alt="stage"  width="50%" height="50%" >
+   <img src="images/stage.png" alt="stage"  width="50%" height="50%" >
 </div>
 
 #### Stage transition in MLFLOW UI
 <div style="text-align: center;">
-   <img src="stage_mlflow.png" alt="stage_mlflow"  width="50%" height="50%" >
+   <img src="images/stage_mlflow.png" alt="stage_mlflow"  width="50%" height="50%" >
 </div>
 
 ---
@@ -70,7 +70,7 @@ It focuses on building a complete ML pipeline, from preprocessing to model regis
 
 #### versions with descriptions
 <div style="text-align: center;">
-   <img src="versions.png" alt="stage_mlflow"  width="50%" height="50%" >
+   <img src="images/versions.png" alt="stage_mlflow"  width="50%" height="50%" >
 </div>
 
 ---
