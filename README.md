@@ -21,11 +21,12 @@ It focuses on building a complete ML pipeline, from preprocessing to model regis
 <div style="text-align: center;">
    <img src="parameters.png" alt="parameters"  width="50%" height="50%" >
 </div>
-
 # Metrics
 <div style="text-align: center;">
    <img src="parameters.png" alt="Metrics"  width="50%" height="50%" >
 </div>
+
+
 
 3. Use `mlflow.sklearn.log_model()` to **save and version** the trained model.
 # code
@@ -33,12 +34,16 @@ It focuses on building a complete ML pipeline, from preprocessing to model regis
    <img src="register.png" alt="register_code"  width="50%" height="50%" >
 </div>
 
+
+
 4. Register the model in the **MLflow Model Registry** with a unique name.
 
 # Model
 <div style="text-align: center;">
    <img src="models.png" alt="models"  width="50%" height="50%" >
 </div>
+
+
 
 5. Promote the model across lifecycle stages:
    ```
@@ -55,6 +60,8 @@ It focuses on building a complete ML pipeline, from preprocessing to model regis
 <div style="text-align: center;">
    <img src="stage_mlflow.png" alt="stage_mlflow"  width="50%" height="50%" >
 </div>
+
+
 
 6. Observe model versions, descriptions, and performance metrics in the MLflow UI.
 
