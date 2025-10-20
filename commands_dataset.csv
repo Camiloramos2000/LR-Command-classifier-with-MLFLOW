@@ -1,0 +1,3331 @@
+text,command,intent
+check emails,check_email,immediate
+abre Excel,open_excel,immediate
+quiero abrir una hoja de cálculo please,open_excel,immediate
+detén la música,stop_music,immediate
+update Windows,update_system,scheduled
+abre la terminal,open_terminal,immediate
+raise the volume,volume_up,immediate
+silenciar todo,mute_sound,immediate
+check mail in the morning,check_email,scheduled
+restart at 3 AM,restart_computer,scheduled
+sube el volumen,volume_up,immediate
+close the active window,close_window,immediate
+update Windows,update_system,scheduled
+play some music,play_music,immediate
+open Word at 7 AM please,open_word,scheduled
+play some music,play_music,immediate
+abre Excel mañana please,open_excel,scheduled
+baja el volumen,volume_down,immediate
+launch terminal now,open_terminal,immediate
+backup my data asap,run_backup,scheduled
+reinicia el PC,restart_computer,immediate
+close all windows asap,close_window,immediate
+restart at 3 AM when possible,restart_computer,scheduled
+schedule shutdown for tonight please,shutdown_computer,scheduled
+sube el volumen a las 10 PM,volume_up,scheduled
+sube el volumen a las 10 PM,volume_up,scheduled
+pausa la canción,pause_music,immediate
+launch terminal now,open_terminal,immediate
+abre la terminal,open_terminal,immediate
+turn up the volume,volume_up,immediate
+quiero que abras Edge ahora mismo,open_browser,immediate
+launch Microsoft Word,open_word,immediate
+quiero escuchar algo ahora,play_music,immediate
+open Word at 7 AM,open_word,scheduled
+abre Excel,open_excel,immediate
+quiero abrir consola when possible,open_terminal,immediate
+abre Firefox a las 8 PM,open_browser,scheduled
+abre Excel,open_excel,immediate
+check mail in the morning asap,check_email,scheduled
+apaga el computador,shutdown_computer,immediate
+haz una actualización asap,update_system,immediate
+open spreadsheet,open_excel,immediate
+desactiva el silencio,unmute_sound,immediate
+run system update now,update_system,scheduled
+pause the track asap,pause_music,immediate
+take screenshot at 9 AM,take_screenshot,scheduled
+take screenshot at 9 AM,take_screenshot,scheduled
+open inbox now ahora mismo,check_email,immediate
+pausa la canción,pause_music,immediate
+open Word at 7 AM,open_word,scheduled
+open Word document,open_word,immediate
+reinicia el PC,restart_computer,immediate
+launch terminal now,open_terminal,immediate
+schedule shutdown for tonight,shutdown_computer,scheduled
+shut down PC,shutdown_computer,immediate
+launch terminal now,open_terminal,immediate
+take screenshot at 9 AM,take_screenshot,scheduled
+lower the volume,volume_down,immediate
+run backup at midnight ahora mismo,run_backup,scheduled
+stop all songs,stop_music,immediate
+para la música ya,stop_music,immediate
+detén la música más tarde when possible,stop_music,scheduled
+reboot system,restart_computer,immediate
+quiero apagar todo ya,shutdown_computer,immediate
+backup my data,run_backup,scheduled
+launch terminal now ahora mismo,open_terminal,immediate
+mute the system tonight,mute_sound,scheduled
+reboot system,restart_computer,immediate
+abre Excel,open_excel,immediate
+update at 11 PM,update_system,scheduled
+backup my data when possible,run_backup,scheduled
+restart at 3 AM,restart_computer,scheduled
+revisa mi correo,check_email,immediate
+stop playing music,stop_music,immediate
+para la música ya,stop_music,immediate
+adjust brightness at night,adjust_brightness,scheduled
+backup my data,run_backup,scheduled
+sube el volumen a las 10 PM,volume_up,scheduled
+pon música a las 6 de la tarde when possible,play_music,scheduled
+restart computer ahora mismo,restart_computer,immediate
+turn up the volume,volume_up,immediate
+abre Firefox a las 8 PM,open_browser,scheduled
+lower the volume,volume_down,immediate
+unmute at 9 AM,unmute_sound,scheduled
+detén la música más tarde,stop_music,scheduled
+quiero que abras Edge,open_browser,immediate
+adjust brightness at night,adjust_brightness,scheduled
+close the active window asap,close_window,immediate
+reproduce mi playlist,play_music,immediate
+bloquea el sistema más tarde,lock_screen,scheduled
+screenshot now,take_screenshot,immediate
+run backup at midnight,run_backup,scheduled
+silencia el sonido when possible,mute_sound,immediate
+restart computer,restart_computer,immediate
+detén la música,stop_music,immediate
+abre Excel,open_excel,immediate
+check emails,check_email,immediate
+open inbox now please,check_email,immediate
+run system update now,update_system,scheduled
+bloquea el sistema más tarde,lock_screen,scheduled
+open terminal at 10 AM,open_terminal,scheduled
+haz un respaldo,run_backup,immediate
+update at 11 PM when possible,update_system,scheduled
+toma una captura,take_screenshot,immediate
+detén la música más tarde,stop_music,scheduled
+apaga el computador,shutdown_computer,immediate
+open inbox now when possible,check_email,immediate
+mute all,mute_sound,immediate
+detén la música más tarde ahora mismo,stop_music,scheduled
+stop all songs,stop_music,immediate
+run backup at midnight,run_backup,scheduled
+stop all songs when possible,stop_music,immediate
+ajusta el brillo when possible,adjust_brightness,immediate
+run system backup,run_backup,immediate
+abre Excel mañana,open_excel,scheduled
+restart at 3 AM asap,restart_computer,scheduled
+detén la música un momento,pause_music,immediate
+stop all songs,stop_music,immediate
+quiero abrir consola,open_terminal,immediate
+pause the track,pause_music,immediate
+close the active window,close_window,immediate
+reinicia el PC,restart_computer,immediate
+pause the track please,pause_music,immediate
+update at 11 PM,update_system,scheduled
+run system update now,update_system,scheduled
+open Excel file now,open_excel,immediate
+por favor cerrar esto después please,close_window,scheduled
+run system backup,run_backup,immediate
+pausar la playlist en una hora,pause_music,immediate
+abre Excel mañana,open_excel,scheduled
+restart at 3 AM,restart_computer,scheduled
+baja el volumen por la noche,volume_down,immediate
+check mail in the morning,check_email,scheduled
+detén la música más tarde,stop_music,scheduled
+schedule shutdown for tonight please,shutdown_computer,scheduled
+haz una captura de pantalla,take_screenshot,immediate
+silenciar todo,mute_sound,immediate
+launch browser now,open_browser,immediate
+run system backup,run_backup,immediate
+bloquea el sistema más tarde,lock_screen,scheduled
+raise the volume,volume_up,immediate
+mute all,mute_sound,immediate
+reboot system,restart_computer,immediate
+baja el volumen,volume_down,immediate
+pause the track,pause_music,immediate
+silenciar todo,mute_sound,immediate
+desactiva el silencio,unmute_sound,immediate
+abre Firefox a las 8 PM,open_browser,scheduled
+open spreadsheet,open_excel,immediate
+mute the system tonight,mute_sound,scheduled
+reduce el brillo,adjust_brightness,immediate
+shut down PC,shutdown_computer,immediate
+unmute at 9 AM,unmute_sound,scheduled
+reduce el sonido,volume_down,immediate
+turn the volume down,volume_down,immediate
+pause the track,pause_music,immediate
+check emails,check_email,immediate
+dim the screen,adjust_brightness,immediate
+pon música a las 6 de la tarde,play_music,scheduled
+baja el volumen por la noche,volume_down,immediate
+silenciar todo,mute_sound,immediate
+check emails when possible,check_email,immediate
+schedule shutdown for tonight,shutdown_computer,scheduled
+cerrar la app,close_window,immediate
+open inbox now,check_email,immediate
+check mail in the morning,check_email,scheduled
+silencia el sonido,mute_sound,immediate
+sube el volumen a las 10 PM,volume_up,scheduled
+quiero cerrar esto después,close_window,scheduled
+haz una actualización,update_system,immediate
+unmute at 9 AM asap,unmute_sound,scheduled
+sube el volumen a las 10 PM,volume_up,scheduled
+baja el volumen,volume_down,immediate
+take screenshot at 9 AM please,take_screenshot,scheduled
+quiero escuchar algo ahora,play_music,immediate
+stop playing music,stop_music,immediate
+revisa mi correo,check_email,immediate
+quiero bloquear el PC,lock_screen,immediate
+apaga el computador,shutdown_computer,immediate
+apaga el computador when possible,shutdown_computer,immediate
+baja el volumen when possible,volume_down,immediate
+adjust brightness at night ahora mismo,adjust_brightness,scheduled
+play some music ahora mismo,play_music,immediate
+schedule shutdown for tonight,shutdown_computer,scheduled
+lower the volume,volume_down,immediate
+abre el navegador,open_browser,immediate
+restart computer,restart_computer,immediate
+detén la música,stop_music,immediate
+lower the volume,volume_down,immediate
+lock my computer,lock_screen,immediate
+pon música,play_music,immediate
+haz un respaldo,run_backup,immediate
+close all windows,close_window,immediate
+reproduce mi playlist,play_music,immediate
+actualiza el sistema,update_system,immediate
+abre Firefox a las 8 PM asap,open_browser,scheduled
+abre el navegador please,open_browser,immediate
+pause the track,pause_music,immediate
+update at 11 PM,update_system,scheduled
+launch Microsoft Word asap,open_word,immediate
+haz que editar un archivo,open_word,immediate
+actualiza el sistema,update_system,immediate
+sube el volumen a las 10 PM,volume_up,scheduled
+take screenshot at 9 AM,take_screenshot,scheduled
+actualiza el sistema,update_system,immediate
+silencia el sonido when possible,mute_sound,immediate
+open Excel file now,open_excel,immediate
+abre Firefox a las 8 PM,open_browser,scheduled
+turn up the volume,volume_up,immediate
+start backup now,run_backup,immediate
+close all windows when possible,close_window,immediate
+revisa mi correo,check_email,immediate
+open inbox now,check_email,immediate
+stop all songs,stop_music,immediate
+detén la música,stop_music,immediate
+take screenshot at 9 AM,take_screenshot,scheduled
+start backup now,run_backup,immediate
+sube el volumen a las 10 PM,volume_up,scheduled
+play some music,play_music,immediate
+haz una captura de pantalla,take_screenshot,immediate
+lock my computer,lock_screen,immediate
+adjust brightness at night,adjust_brightness,scheduled
+quiero que abras Edge,open_browser,immediate
+abre Excel mañana asap,open_excel,scheduled
+cierra la ventana,close_window,immediate
+activa el sonido,unmute_sound,immediate
+baja el volumen please,volume_down,immediate
+baja el volumen por la noche,volume_down,immediate
+open spreadsheet,open_excel,immediate
+reduce el sonido asap,volume_down,immediate
+close the active window please,close_window,immediate
+apaga el computador,shutdown_computer,immediate
+unmute at 9 AM,unmute_sound,scheduled
+detén la música más tarde please,stop_music,scheduled
+unmute my PC,unmute_sound,immediate
+quiero reiniciar ahora,restart_computer,immediate
+open inbox now when possible,check_email,immediate
+bloquea la pantalla please,lock_screen,immediate
+adjust brightness at night,adjust_brightness,scheduled
+bloquea la pantalla,lock_screen,immediate
+unmute at 9 AM,unmute_sound,scheduled
+open Chrome,open_browser,immediate
+haz que cerrar esto después,close_window,scheduled
+puedes ver mis mensajes,check_email,immediate
+lock screen now,lock_screen,immediate
+shut down PC asap,shutdown_computer,immediate
+open Word at 7 AM,open_word,scheduled
+open terminal at 10 AM,open_terminal,scheduled
+open Word document,open_word,immediate
+open Chrome,open_browser,immediate
+bloquea el sistema más tarde please,lock_screen,scheduled
+cierra la ventana,close_window,immediate
+shut down PC,shutdown_computer,immediate
+take a screenshot,take_screenshot,immediate
+quiero abrir consola,open_terminal,immediate
+turn up the volume,volume_up,immediate
+aumenta el sonido ahora,volume_up,immediate
+abre Firefox a las 8 PM,open_browser,scheduled
+turn up the volume when possible,volume_up,immediate
+pausar la playlist en una hora,pause_music,immediate
+start backup now,run_backup,immediate
+haz que apagar todo ya,shutdown_computer,immediate
+quiero bloquear el PC,lock_screen,immediate
+adjust brightness at night,adjust_brightness,scheduled
+screenshot now,take_screenshot,immediate
+desactiva el silencio when possible,unmute_sound,immediate
+sube el volumen,volume_up,immediate
+open terminal at 10 AM,open_terminal,scheduled
+raise the volume,volume_up,immediate
+mute all,mute_sound,immediate
+unmute at 9 AM when possible,unmute_sound,scheduled
+take a screenshot asap,take_screenshot,immediate
+update at 11 PM,update_system,scheduled
+mute all ahora mismo,mute_sound,immediate
+start backup now,run_backup,immediate
+activa el sonido please,unmute_sound,immediate
+take screenshot at 9 AM when possible,take_screenshot,scheduled
+launch Microsoft Word,open_word,immediate
+ajusta el brillo ahora mismo,adjust_brightness,immediate
+abre el navegador ahora mismo,open_browser,immediate
+close the active window,close_window,immediate
+lower the volume ahora mismo,volume_down,immediate
+open terminal at 10 AM,open_terminal,scheduled
+close the active window,close_window,immediate
+run backup at midnight,run_backup,scheduled
+screenshot now,take_screenshot,immediate
+abre Firefox a las 8 PM,open_browser,scheduled
+check mail in the morning,check_email,scheduled
+para la música ya asap,stop_music,immediate
+cierra la ventana when possible,close_window,immediate
+open spreadsheet ahora mismo,open_excel,immediate
+desactiva el silencio,unmute_sound,immediate
+ajusta el brillo,adjust_brightness,immediate
+toma una captura,take_screenshot,immediate
+haz un respaldo,run_backup,immediate
+mute my PC please,mute_sound,immediate
+check mail in the morning,check_email,scheduled
+launch terminal now,open_terminal,immediate
+bloquea el sistema más tarde,lock_screen,scheduled
+sube el volumen,volume_up,immediate
+check mail in the morning asap,check_email,scheduled
+activa el sonido please,unmute_sound,immediate
+launch browser now,open_browser,immediate
+apaga el computador,shutdown_computer,immediate
+para la música ya,stop_music,immediate
+ajusta el brillo,adjust_brightness,immediate
+reboot system,restart_computer,immediate
+apaga el computador,shutdown_computer,immediate
+pause the track asap,pause_music,immediate
+detén la música un momento,pause_music,immediate
+run backup at midnight,run_backup,scheduled
+mute the system tonight,mute_sound,scheduled
+actualiza el sistema,update_system,immediate
+abre la terminal,open_terminal,immediate
+play some music,play_music,immediate
+run backup at midnight,run_backup,scheduled
+open spreadsheet,open_excel,immediate
+quiero escuchar algo ahora when possible,play_music,immediate
+aumenta el sonido ahora,volume_up,immediate
+unmute at 9 AM asap,unmute_sound,scheduled
+open command prompt,open_terminal,immediate
+mute the system tonight,mute_sound,scheduled
+abre Excel mañana,open_excel,scheduled
+haz que abrir una hoja de cálculo asap,open_excel,immediate
+open Chrome,open_browser,immediate
+quiero cerrar esto después asap,close_window,scheduled
+update at 11 PM,update_system,scheduled
+detén la música más tarde please,stop_music,scheduled
+quiero editar un archivo,open_word,immediate
+check mail in the morning when possible,check_email,scheduled
+adjust brightness at night,adjust_brightness,scheduled
+restart computer,restart_computer,immediate
+schedule shutdown for tonight when possible,shutdown_computer,scheduled
+quiero abrir una hoja de cálculo,open_excel,immediate
+lock screen now asap,lock_screen,immediate
+abre Excel mañana,open_excel,scheduled
+unmute my PC,unmute_sound,immediate
+adjust brightness at night when possible,adjust_brightness,scheduled
+check emails,check_email,immediate
+baja el volumen,volume_down,immediate
+open command prompt,open_terminal,immediate
+quiero cerrar esto después,close_window,scheduled
+check mail in the morning,check_email,scheduled
+shut down PC,shutdown_computer,immediate
+activa el sonido,unmute_sound,immediate
+baja el volumen por la noche,volume_down,immediate
+detén la música más tarde,stop_music,scheduled
+update at 11 PM when possible,update_system,scheduled
+quiero abrir consola please,open_terminal,immediate
+quiero que abras Edge,open_browser,immediate
+run system update now,update_system,scheduled
+update Windows,update_system,scheduled
+check mail in the morning when possible,check_email,scheduled
+shut down PC,shutdown_computer,immediate
+stop playing music,stop_music,immediate
+schedule shutdown for tonight,shutdown_computer,scheduled
+detén la música más tarde,stop_music,scheduled
+open Excel file now,open_excel,immediate
+turn off computer,shutdown_computer,immediate
+screenshot now asap,take_screenshot,immediate
+launch terminal now,open_terminal,immediate
+quiero abrir consola,open_terminal,immediate
+detén la música,stop_music,immediate
+pon música a las 6 de la tarde,play_music,scheduled
+restart at 3 AM,restart_computer,scheduled
+check mail in the morning please,check_email,scheduled
+sube el volumen a las 10 PM,volume_up,scheduled
+start backup now,run_backup,immediate
+turn off computer,shutdown_computer,immediate
+abre Excel mañana,open_excel,scheduled
+launch browser now,open_browser,immediate
+enable sound,unmute_sound,immediate
+update at 11 PM,update_system,scheduled
+close all windows,close_window,immediate
+silencia el sonido,mute_sound,immediate
+set brightness to low now,adjust_brightness,immediate
+pon música a las 6 de la tarde,play_music,scheduled
+silenciar todo,mute_sound,immediate
+quiero cerrar esto después,close_window,scheduled
+raise the volume,volume_up,immediate
+reinicia el PC,restart_computer,immediate
+adjust brightness at night please,adjust_brightness,scheduled
+haz una actualización,update_system,immediate
+take a screenshot,take_screenshot,immediate
+lock my computer,lock_screen,immediate
+pon música a las 6 de la tarde please,play_music,scheduled
+launch browser now,open_browser,immediate
+quiero cerrar esto después ahora mismo,close_window,scheduled
+play some music,play_music,immediate
+para la música ya ahora mismo,stop_music,immediate
+lock screen now,lock_screen,immediate
+detén la música ahora mismo,stop_music,immediate
+play some music,play_music,immediate
+detén la música un momento asap,pause_music,immediate
+abre Firefox a las 8 PM,open_browser,scheduled
+run system backup please,run_backup,immediate
+update Windows,update_system,scheduled
+update at 11 PM,update_system,scheduled
+haz una captura de pantalla,take_screenshot,immediate
+lock screen now,lock_screen,immediate
+lower the volume asap,volume_down,immediate
+turn the volume down,volume_down,immediate
+reduce el sonido,volume_down,immediate
+bloquea la pantalla asap,lock_screen,immediate
+mute my PC,mute_sound,immediate
+ajusta el brillo please,adjust_brightness,immediate
+pon música a las 6 de la tarde,play_music,scheduled
+pausa la canción,pause_music,immediate
+quiero cerrar esto después,close_window,scheduled
+screenshot now,take_screenshot,immediate
+schedule shutdown for tonight,shutdown_computer,scheduled
+lock screen now,lock_screen,immediate
+lower the volume,volume_down,immediate
+open Word at 7 AM,open_word,scheduled
+start backup now,run_backup,immediate
+backup my data,run_backup,scheduled
+unmute at 9 AM,unmute_sound,scheduled
+baja el volumen when possible,volume_down,immediate
+unmute my PC,unmute_sound,immediate
+stop all songs,stop_music,immediate
+para la música ya,stop_music,immediate
+run system update now,update_system,scheduled
+abre la terminal,open_terminal,immediate
+lock my computer,lock_screen,immediate
+open terminal at 10 AM,open_terminal,scheduled
+open inbox now,check_email,immediate
+dim the screen,adjust_brightness,immediate
+haz que abrir consola,open_terminal,immediate
+sube el volumen a las 10 PM,volume_up,scheduled
+close the active window,close_window,immediate
+take a screenshot,take_screenshot,immediate
+turn off computer,shutdown_computer,immediate
+take screenshot at 9 AM,take_screenshot,scheduled
+pause the track,pause_music,immediate
+update at 11 PM please,update_system,scheduled
+update at 11 PM,update_system,scheduled
+aumenta el sonido ahora,volume_up,immediate
+adjust brightness at night,adjust_brightness,scheduled
+haz un respaldo,run_backup,immediate
+puedes cerrar esto después please,close_window,scheduled
+enable sound,unmute_sound,immediate
+take screenshot at 9 AM when possible,take_screenshot,scheduled
+silencia el sonido,mute_sound,immediate
+ajusta el brillo ahora mismo,adjust_brightness,immediate
+play some music,play_music,immediate
+open inbox now,check_email,immediate
+aumenta el sonido ahora,volume_up,immediate
+update Windows,update_system,scheduled
+activa el sonido,unmute_sound,immediate
+quiero cerrar esto después,close_window,scheduled
+pausa la canción,pause_music,immediate
+run backup at midnight,run_backup,scheduled
+silenciar todo,mute_sound,immediate
+backup my data,run_backup,scheduled
+detén la música más tarde,stop_music,scheduled
+aumenta el sonido ahora please,volume_up,immediate
+quiero cerrar esto después,close_window,scheduled
+launch terminal now,open_terminal,immediate
+revisa mi correo,check_email,immediate
+lock my computer,lock_screen,immediate
+backup my data,run_backup,scheduled
+open terminal at 10 AM,open_terminal,scheduled
+actualiza el sistema,update_system,immediate
+detén la música un momento,pause_music,immediate
+turn up the volume,volume_up,immediate
+detén la música más tarde asap,stop_music,scheduled
+baja el volumen por la noche,volume_down,immediate
+activa el sonido,unmute_sound,immediate
+reinicia el PC,restart_computer,immediate
+check mail in the morning,check_email,scheduled
+reinicia el PC asap,restart_computer,immediate
+mute my PC,mute_sound,immediate
+detén la música más tarde,stop_music,scheduled
+stop playing music ahora mismo,stop_music,immediate
+play some music,play_music,immediate
+open Word at 7 AM,open_word,scheduled
+restart at 3 AM,restart_computer,scheduled
+abre Excel mañana,open_excel,scheduled
+sube el volumen a las 10 PM,volume_up,scheduled
+quiero cerrar esto después,close_window,scheduled
+take a screenshot,take_screenshot,immediate
+detén la música más tarde,stop_music,scheduled
+lock screen now,lock_screen,immediate
+check mail in the morning please,check_email,scheduled
+me gustaría reiniciar ahora,restart_computer,immediate
+pause my music,pause_music,immediate
+mute the system tonight,mute_sound,scheduled
+take a screenshot,take_screenshot,immediate
+close the active window,close_window,immediate
+pause my music,pause_music,immediate
+unmute at 9 AM ahora mismo,unmute_sound,scheduled
+lock my computer,lock_screen,immediate
+mute the system tonight,mute_sound,scheduled
+reproduce mi playlist,play_music,immediate
+sube el volumen,volume_up,immediate
+dim the screen,adjust_brightness,immediate
+quiero reiniciar ahora,restart_computer,immediate
+schedule shutdown for tonight,shutdown_computer,scheduled
+quiero editar un archivo,open_word,immediate
+check mail in the morning,check_email,scheduled
+detén la música,stop_music,immediate
+para la música ya,stop_music,immediate
+open Excel file now,open_excel,immediate
+shut down PC,shutdown_computer,immediate
+actualiza el sistema,update_system,immediate
+run system backup please,run_backup,immediate
+quiero abrir consola please,open_terminal,immediate
+shut down PC when possible,shutdown_computer,immediate
+restart at 3 AM,restart_computer,scheduled
+turn the volume down ahora mismo,volume_down,immediate
+quiero bloquear el PC,lock_screen,immediate
+quiero apagar todo ya,shutdown_computer,immediate
+play some music,play_music,immediate
+run backup at midnight,run_backup,scheduled
+sube el volumen a las 10 PM,volume_up,scheduled
+run system backup,run_backup,immediate
+abre la terminal,open_terminal,immediate
+bloquea el sistema más tarde,lock_screen,scheduled
+pausa la canción,pause_music,immediate
+abre Excel mañana,open_excel,scheduled
+abre el navegador,open_browser,immediate
+bloquea la pantalla,lock_screen,immediate
+close the active window,close_window,immediate
+check mail in the morning,check_email,scheduled
+quiero abrir una hoja de cálculo,open_excel,immediate
+launch Microsoft Word,open_word,immediate
+mute my PC please,mute_sound,immediate
+detén la música un momento please,pause_music,immediate
+detén la música más tarde,stop_music,scheduled
+update at 11 PM,update_system,scheduled
+cerrar la app,close_window,immediate
+quiero reiniciar ahora,restart_computer,immediate
+launch terminal now ahora mismo,open_terminal,immediate
+schedule shutdown for tonight,shutdown_computer,scheduled
+silenciar todo when possible,mute_sound,immediate
+open command prompt,open_terminal,immediate
+enable sound,unmute_sound,immediate
+open spreadsheet,open_excel,immediate
+reinicia el PC,restart_computer,immediate
+quiero cerrar esto después,close_window,scheduled
+ajusta el brillo,adjust_brightness,immediate
+toma una captura,take_screenshot,immediate
+play some music,play_music,immediate
+pause my music,pause_music,immediate
+aumenta el sonido ahora,volume_up,immediate
+pon música a las 6 de la tarde,play_music,scheduled
+bloquea la pantalla,lock_screen,immediate
+silenciar todo,mute_sound,immediate
+lower the volume please,volume_down,immediate
+baja el volumen,volume_down,immediate
+launch terminal now,open_terminal,immediate
+reboot system ahora mismo,restart_computer,immediate
+open command prompt,open_terminal,immediate
+reproduce mi playlist,play_music,immediate
+baja el volumen por la noche ahora mismo,volume_down,immediate
+enable sound,unmute_sound,immediate
+abre Word,open_word,immediate
+detén la música un momento,pause_music,immediate
+haz un respaldo,run_backup,immediate
+detén la música más tarde ahora mismo,stop_music,scheduled
+sube el volumen a las 10 PM,volume_up,scheduled
+restart at 3 AM,restart_computer,scheduled
+abre Firefox a las 8 PM,open_browser,scheduled
+stop all songs,stop_music,immediate
+lock screen now,lock_screen,immediate
+aumenta el sonido ahora,volume_up,immediate
+open Word document,open_word,immediate
+unmute my PC,unmute_sound,immediate
+pon música a las 6 de la tarde please,play_music,scheduled
+ajusta el brillo ahora mismo,adjust_brightness,immediate
+check mail in the morning,check_email,scheduled
+quiero cerrar esto después,close_window,scheduled
+mute all,mute_sound,immediate
+quiero reiniciar ahora,restart_computer,immediate
+take screenshot at 9 AM asap,take_screenshot,scheduled
+stop playing music,stop_music,immediate
+abre Word,open_word,immediate
+take a screenshot,take_screenshot,immediate
+pon música,play_music,immediate
+take screenshot at 9 AM when possible,take_screenshot,scheduled
+abre Excel,open_excel,immediate
+close all windows asap,close_window,immediate
+abre Excel mañana please,open_excel,scheduled
+open Word at 7 AM,open_word,scheduled
+abre Word,open_word,immediate
+lock my computer,lock_screen,immediate
+bloquea la pantalla,lock_screen,immediate
+silenciar todo,mute_sound,immediate
+pause my music,pause_music,immediate
+screenshot now,take_screenshot,immediate
+abre Firefox a las 8 PM,open_browser,scheduled
+check mail in the morning,check_email,scheduled
+enable sound,unmute_sound,immediate
+reinicia el PC,restart_computer,immediate
+play some music,play_music,immediate
+open Chrome,open_browser,immediate
+por favor apagar todo ya,shutdown_computer,immediate
+baja el volumen,volume_down,immediate
+shut down PC,shutdown_computer,immediate
+pausa la canción,pause_music,immediate
+sube el volumen a las 10 PM,volume_up,scheduled
+turn the volume down,volume_down,immediate
+revisa mi correo ahora mismo,check_email,immediate
+quiero reiniciar ahora,restart_computer,immediate
+schedule shutdown for tonight,shutdown_computer,scheduled
+para la música ya,stop_music,immediate
+launch Microsoft Word ahora mismo,open_word,immediate
+unmute at 9 AM,unmute_sound,scheduled
+update at 11 PM,update_system,scheduled
+lower the volume,volume_down,immediate
+backup my data,run_backup,scheduled
+turn the volume down,volume_down,immediate
+shut down PC,shutdown_computer,immediate
+detén la música,stop_music,immediate
+activa el sonido,unmute_sound,immediate
+abre Excel mañana,open_excel,scheduled
+shut down PC,shutdown_computer,immediate
+open terminal at 10 AM,open_terminal,scheduled
+sube el volumen,volume_up,immediate
+bloquea el sistema más tarde ahora mismo,lock_screen,scheduled
+schedule shutdown for tonight,shutdown_computer,scheduled
+lock screen now,lock_screen,immediate
+abre Excel,open_excel,immediate
+sube el volumen,volume_up,immediate
+puedes cerrar esto después,close_window,scheduled
+quiero bloquear el PC,lock_screen,immediate
+backup my data,run_backup,scheduled
+reproduce mi playlist,play_music,immediate
+update at 11 PM ahora mismo,update_system,scheduled
+haz un respaldo,run_backup,immediate
+pon música a las 6 de la tarde,play_music,scheduled
+run system update now,update_system,scheduled
+detén la música más tarde,stop_music,scheduled
+update Windows ahora mismo,update_system,scheduled
+unmute at 9 AM,unmute_sound,scheduled
+run system update now,update_system,scheduled
+pause the track,pause_music,immediate
+start backup now,run_backup,immediate
+update Windows please,update_system,scheduled
+dim the screen,adjust_brightness,immediate
+open terminal at 10 AM,open_terminal,scheduled
+sube el volumen a las 10 PM,volume_up,scheduled
+actualiza el sistema,update_system,immediate
+run system update now,update_system,scheduled
+activa el sonido,unmute_sound,immediate
+haz una actualización,update_system,immediate
+run system backup,run_backup,immediate
+mute the system tonight,mute_sound,scheduled
+schedule shutdown for tonight,shutdown_computer,scheduled
+pon música,play_music,immediate
+pause the track,pause_music,immediate
+baja el volumen,volume_down,immediate
+check emails,check_email,immediate
+detén la música un momento,pause_music,immediate
+launch Microsoft Word,open_word,immediate
+quiero bloquear el PC,lock_screen,immediate
+open Word document asap,open_word,immediate
+open terminal at 10 AM,open_terminal,scheduled
+detén la música,stop_music,immediate
+mute the system tonight,mute_sound,scheduled
+launch browser now,open_browser,immediate
+quiero bloquear el PC,lock_screen,immediate
+unmute at 9 AM when possible,unmute_sound,scheduled
+run system update now,update_system,scheduled
+toma una captura,take_screenshot,immediate
+open Word document,open_word,immediate
+revisa mi correo,check_email,immediate
+quiero editar un archivo,open_word,immediate
+adjust brightness at night,adjust_brightness,scheduled
+haz una actualización asap,update_system,immediate
+por favor escuchar algo ahora when possible,play_music,immediate
+haz una actualización please,update_system,immediate
+haz una captura de pantalla,take_screenshot,immediate
+abre Firefox a las 8 PM asap,open_browser,scheduled
+check mail in the morning,check_email,scheduled
+sube el volumen,volume_up,immediate
+close all windows,close_window,immediate
+launch Microsoft Word ahora mismo,open_word,immediate
+open Word document,open_word,immediate
+abre Firefox a las 8 PM,open_browser,scheduled
+update Windows,update_system,scheduled
+detén la música más tarde,stop_music,scheduled
+revisa mi correo,check_email,immediate
+quiero cerrar esto después when possible,close_window,scheduled
+adjust brightness at night when possible,adjust_brightness,scheduled
+run backup at midnight,run_backup,scheduled
+start backup now asap,run_backup,immediate
+run system update now,update_system,scheduled
+run backup at midnight,run_backup,scheduled
+reboot system,restart_computer,immediate
+close all windows,close_window,immediate
+abre Firefox a las 8 PM,open_browser,scheduled
+haz una actualización,update_system,immediate
+lock my computer,lock_screen,immediate
+open Word document,open_word,immediate
+mute all,mute_sound,immediate
+abre el navegador,open_browser,immediate
+restart computer,restart_computer,immediate
+para la música ya,stop_music,immediate
+apaga el computador,shutdown_computer,immediate
+run system update now,update_system,scheduled
+abre Excel mañana,open_excel,scheduled
+bloquea la pantalla,lock_screen,immediate
+activa el sonido,unmute_sound,immediate
+abre el navegador asap,open_browser,immediate
+baja el volumen,volume_down,immediate
+turn up the volume,volume_up,immediate
+silenciar todo,mute_sound,immediate
+mute all,mute_sound,immediate
+quiero cerrar esto después asap,close_window,scheduled
+lower the volume,volume_down,immediate
+bloquea la pantalla,lock_screen,immediate
+open inbox now,check_email,immediate
+mute my PC,mute_sound,immediate
+update Windows,update_system,scheduled
+open terminal at 10 AM,open_terminal,scheduled
+quiero reiniciar ahora,restart_computer,immediate
+lock screen now,lock_screen,immediate
+baja el volumen,volume_down,immediate
+launch Microsoft Word,open_word,immediate
+pon música,play_music,immediate
+open Excel file now,open_excel,immediate
+para la música ya asap,stop_music,immediate
+cierra la ventana,close_window,immediate
+detén la música más tarde asap,stop_music,scheduled
+detén la música más tarde,stop_music,scheduled
+cerrar la app,close_window,immediate
+run system update now,update_system,scheduled
+check emails,check_email,immediate
+adjust brightness at night,adjust_brightness,scheduled
+haz un respaldo ahora mismo,run_backup,immediate
+restart at 3 AM,restart_computer,scheduled
+haz que editar un archivo,open_word,immediate
+quiero abrir consola,open_terminal,immediate
+sube el volumen a las 10 PM,volume_up,scheduled
+reinicia el PC,restart_computer,immediate
+mute all,mute_sound,immediate
+reduce el sonido,volume_down,immediate
+open Word at 7 AM,open_word,scheduled
+reduce el sonido asap,volume_down,immediate
+revisa mi correo,check_email,immediate
+quiero reiniciar ahora,restart_computer,immediate
+detén la música más tarde,stop_music,scheduled
+close all windows,close_window,immediate
+abre el navegador,open_browser,immediate
+open Excel file now,open_excel,immediate
+restart at 3 AM when possible,restart_computer,scheduled
+quiero que abras Edge,open_browser,immediate
+set brightness to low now,adjust_brightness,immediate
+reinicia el PC,restart_computer,immediate
+cerrar la app,close_window,immediate
+restart at 3 AM,restart_computer,scheduled
+unmute at 9 AM,unmute_sound,scheduled
+pause the track please,pause_music,immediate
+check mail in the morning,check_email,scheduled
+open terminal at 10 AM,open_terminal,scheduled
+silencia el sonido,mute_sound,immediate
+abre la terminal,open_terminal,immediate
+schedule shutdown for tonight,shutdown_computer,scheduled
+run backup at midnight ahora mismo,run_backup,scheduled
+turn the volume down,volume_down,immediate
+take screenshot at 9 AM,take_screenshot,scheduled
+open Word at 7 AM,open_word,scheduled
+detén la música,stop_music,immediate
+pon música a las 6 de la tarde,play_music,scheduled
+stop all songs,stop_music,immediate
+adjust brightness at night,adjust_brightness,scheduled
+revisa mi correo,check_email,immediate
+check emails,check_email,immediate
+run system update now,update_system,scheduled
+play some music,play_music,immediate
+schedule shutdown for tonight,shutdown_computer,scheduled
+abre Excel mañana,open_excel,scheduled
+haz un respaldo when possible,run_backup,immediate
+me gustaría bloquear el PC,lock_screen,immediate
+detén la música más tarde,stop_music,scheduled
+stop all songs,stop_music,immediate
+adjust brightness at night,adjust_brightness,scheduled
+open Word at 7 AM,open_word,scheduled
+baja el volumen,volume_down,immediate
+silenciar todo,mute_sound,immediate
+open Word document,open_word,immediate
+pon música a las 6 de la tarde,play_music,scheduled
+pausa la canción,pause_music,immediate
+pausa la canción,pause_music,immediate
+quiero abrir consola,open_terminal,immediate
+detén la música más tarde,stop_music,scheduled
+adjust brightness at night,adjust_brightness,scheduled
+check emails,check_email,immediate
+backup my data,run_backup,scheduled
+restart at 3 AM,restart_computer,scheduled
+detén la música un momento,pause_music,immediate
+restart computer ahora mismo,restart_computer,immediate
+detén la música un momento,pause_music,immediate
+open Word document when possible,open_word,immediate
+open spreadsheet,open_excel,immediate
+cerrar la app,close_window,immediate
+enable sound,unmute_sound,immediate
+pause the track,pause_music,immediate
+reduce el sonido,volume_down,immediate
+quiero editar un archivo,open_word,immediate
+lock my computer,lock_screen,immediate
+para la música ya,stop_music,immediate
+pon música,play_music,immediate
+lock my computer asap,lock_screen,immediate
+set brightness to low now,adjust_brightness,immediate
+reproduce mi playlist,play_music,immediate
+open Excel file now,open_excel,immediate
+check mail in the morning,check_email,scheduled
+actualiza el sistema,update_system,immediate
+restart at 3 AM please,restart_computer,scheduled
+puedes cerrar esto después,close_window,scheduled
+mute the system tonight please,mute_sound,scheduled
+take screenshot at 9 AM,take_screenshot,scheduled
+update Windows,update_system,scheduled
+abre Word,open_word,immediate
+cierra la ventana,close_window,immediate
+play some music,play_music,immediate
+open Chrome,open_browser,immediate
+sube el volumen,volume_up,immediate
+restart at 3 AM,restart_computer,scheduled
+play some music,play_music,immediate
+launch Microsoft Word when possible,open_word,immediate
+toma una captura,take_screenshot,immediate
+dim the screen,adjust_brightness,immediate
+sube el volumen,volume_up,immediate
+haz que ver mis mensajes asap,check_email,immediate
+abre Excel,open_excel,immediate
+open Word at 7 AM,open_word,scheduled
+reboot system,restart_computer,immediate
+pon música,play_music,immediate
+sube el volumen a las 10 PM,volume_up,scheduled
+launch terminal now,open_terminal,immediate
+quiero editar un archivo,open_word,immediate
+detén la música más tarde,stop_music,scheduled
+para la música ya,stop_music,immediate
+mute the system tonight asap,mute_sound,scheduled
+pon música a las 6 de la tarde,play_music,scheduled
+shut down PC,shutdown_computer,immediate
+quiero reiniciar ahora,restart_computer,immediate
+abre Excel mañana when possible,open_excel,scheduled
+haz un respaldo,run_backup,immediate
+abre Word,open_word,immediate
+abre Firefox a las 8 PM,open_browser,scheduled
+open Word document,open_word,immediate
+backup my data,run_backup,scheduled
+open Word at 7 AM,open_word,scheduled
+silencia el sonido,mute_sound,immediate
+detén la música más tarde,stop_music,scheduled
+bloquea la pantalla,lock_screen,immediate
+sube el volumen,volume_up,immediate
+sube el volumen a las 10 PM,volume_up,scheduled
+stop playing music,stop_music,immediate
+close all windows asap,close_window,immediate
+turn up the volume ahora mismo,volume_up,immediate
+pause my music,pause_music,immediate
+adjust brightness at night,adjust_brightness,scheduled
+launch Microsoft Word,open_word,immediate
+restart computer,restart_computer,immediate
+open Word document,open_word,immediate
+shut down PC when possible,shutdown_computer,immediate
+adjust brightness at night ahora mismo,adjust_brightness,scheduled
+haz que reiniciar ahora,restart_computer,immediate
+baja el volumen por la noche please,volume_down,immediate
+open Word at 7 AM,open_word,scheduled
+baja el volumen por la noche,volume_down,immediate
+unmute at 9 AM when possible,unmute_sound,scheduled
+unmute at 9 AM,unmute_sound,scheduled
+pausar la playlist en una hora,pause_music,immediate
+abre Excel mañana,open_excel,scheduled
+haz una actualización,update_system,immediate
+baja el volumen,volume_down,immediate
+baja el volumen,volume_down,immediate
+haz una captura de pantalla,take_screenshot,immediate
+open spreadsheet,open_excel,immediate
+sube el volumen a las 10 PM,volume_up,scheduled
+abre Word,open_word,immediate
+shut down PC please,shutdown_computer,immediate
+open terminal at 10 AM,open_terminal,scheduled
+detén la música más tarde,stop_music,scheduled
+unmute at 9 AM please,unmute_sound,scheduled
+update at 11 PM,update_system,scheduled
+reinicia el PC,restart_computer,immediate
+check emails,check_email,immediate
+screenshot now,take_screenshot,immediate
+toma una captura,take_screenshot,immediate
+unmute my PC,unmute_sound,immediate
+abre Excel mañana,open_excel,scheduled
+schedule shutdown for tonight ahora mismo,shutdown_computer,scheduled
+puedes ver mis mensajes,check_email,immediate
+abre la terminal,open_terminal,immediate
+pause the track,pause_music,immediate
+quiero cerrar esto después when possible,close_window,scheduled
+quiero cerrar esto después,close_window,scheduled
+cierra la ventana,close_window,immediate
+sube el volumen,volume_up,immediate
+run backup at midnight,run_backup,scheduled
+bloquea el sistema más tarde,lock_screen,scheduled
+apaga el computador,shutdown_computer,immediate
+take screenshot at 9 AM,take_screenshot,scheduled
+por favor reiniciar ahora,restart_computer,immediate
+abre la terminal,open_terminal,immediate
+check mail in the morning,check_email,scheduled
+take screenshot at 9 AM ahora mismo,take_screenshot,scheduled
+raise the volume ahora mismo,volume_up,immediate
+reduce el sonido,volume_down,immediate
+mute my PC,mute_sound,immediate
+bloquea el sistema más tarde,lock_screen,scheduled
+detén la música un momento,pause_music,immediate
+check emails,check_email,immediate
+launch Microsoft Word,open_word,immediate
+ajusta el brillo,adjust_brightness,immediate
+pause the track,pause_music,immediate
+play some music,play_music,immediate
+schedule shutdown for tonight,shutdown_computer,scheduled
+quiero que abras Edge,open_browser,immediate
+revisa mi correo,check_email,immediate
+open command prompt,open_terminal,immediate
+restart at 3 AM,restart_computer,scheduled
+open terminal at 10 AM,open_terminal,scheduled
+mute the system tonight,mute_sound,scheduled
+restart at 3 AM,restart_computer,scheduled
+close all windows,close_window,immediate
+run backup at midnight,run_backup,scheduled
+mute my PC,mute_sound,immediate
+update Windows when possible,update_system,scheduled
+run system backup,run_backup,immediate
+start backup now,run_backup,immediate
+stop all songs,stop_music,immediate
+run system backup,run_backup,immediate
+desactiva el silencio,unmute_sound,immediate
+run system update now ahora mismo,update_system,scheduled
+enable sound,unmute_sound,immediate
+update at 11 PM,update_system,scheduled
+baja el volumen,volume_down,immediate
+abre Excel ahora mismo,open_excel,immediate
+abre Excel,open_excel,immediate
+stop all songs,stop_music,immediate
+abre Excel mañana,open_excel,scheduled
+ajusta el brillo,adjust_brightness,immediate
+turn off computer,shutdown_computer,immediate
+baja el volumen por la noche,volume_down,immediate
+pon música a las 6 de la tarde,play_music,scheduled
+reduce el sonido,volume_down,immediate
+quiero bloquear el PC,lock_screen,immediate
+cerrar la app ahora mismo,close_window,immediate
+open terminal at 10 AM,open_terminal,scheduled
+lock screen now,lock_screen,immediate
+para la música ya please,stop_music,immediate
+haz que que abras Edge asap,open_browser,immediate
+close all windows,close_window,immediate
+mute the system tonight,mute_sound,scheduled
+open Word at 7 AM please,open_word,scheduled
+reinicia el PC,restart_computer,immediate
+reinicia el PC,restart_computer,immediate
+raise the volume,volume_up,immediate
+update Windows please,update_system,scheduled
+unmute at 9 AM,unmute_sound,scheduled
+haz que bloquear el PC please,lock_screen,immediate
+abre la terminal please,open_terminal,immediate
+adjust brightness at night,adjust_brightness,scheduled
+mute the system tonight,mute_sound,scheduled
+set brightness to low now asap,adjust_brightness,immediate
+lock screen now,lock_screen,immediate
+close all windows,close_window,immediate
+take screenshot at 9 AM please,take_screenshot,scheduled
+ajusta el brillo when possible,adjust_brightness,immediate
+reduce el brillo please,adjust_brightness,immediate
+bloquea la pantalla,lock_screen,immediate
+backup my data asap,run_backup,scheduled
+launch browser now,open_browser,immediate
+por favor abrir una hoja de cálculo please,open_excel,immediate
+pausa la canción when possible,pause_music,immediate
+screenshot now,take_screenshot,immediate
+open terminal at 10 AM,open_terminal,scheduled
+update Windows,update_system,scheduled
+sube el volumen a las 10 PM,volume_up,scheduled
+abre Firefox a las 8 PM,open_browser,scheduled
+launch Microsoft Word ahora mismo,open_word,immediate
+launch Microsoft Word,open_word,immediate
+pause the track,pause_music,immediate
+activa el sonido asap,unmute_sound,immediate
+sube el volumen,volume_up,immediate
+quiero que abras Edge,open_browser,immediate
+desactiva el silencio,unmute_sound,immediate
+turn off computer when possible,shutdown_computer,immediate
+open terminal at 10 AM,open_terminal,scheduled
+apaga el computador ahora mismo,shutdown_computer,immediate
+sube el volumen,volume_up,immediate
+run backup at midnight,run_backup,scheduled
+bloquea la pantalla,lock_screen,immediate
+sube el volumen,volume_up,immediate
+quiero ver mis mensajes,check_email,immediate
+stop all songs when possible,stop_music,immediate
+update Windows,update_system,scheduled
+mute the system tonight,mute_sound,scheduled
+backup my data ahora mismo,run_backup,scheduled
+open Word at 7 AM when possible,open_word,scheduled
+run backup at midnight please,run_backup,scheduled
+haz una captura de pantalla when possible,take_screenshot,immediate
+turn the volume down,volume_down,immediate
+abre Excel mañana when possible,open_excel,scheduled
+update at 11 PM asap,update_system,scheduled
+screenshot now,take_screenshot,immediate
+open spreadsheet,open_excel,immediate
+update Windows,update_system,scheduled
+quiero abrir una hoja de cálculo please,open_excel,immediate
+unmute at 9 AM,unmute_sound,scheduled
+apaga el computador,shutdown_computer,immediate
+quiero abrir consola,open_terminal,immediate
+quiero que abras Edge,open_browser,immediate
+sube el volumen a las 10 PM,volume_up,scheduled
+aumenta el sonido ahora,volume_up,immediate
+revisa mi correo,check_email,immediate
+abre Excel mañana,open_excel,scheduled
+pon música a las 6 de la tarde,play_music,scheduled
+ajusta el brillo,adjust_brightness,immediate
+run system update now asap,update_system,scheduled
+pon música,play_music,immediate
+quiero abrir una hoja de cálculo,open_excel,immediate
+detén la música,stop_music,immediate
+baja el volumen,volume_down,immediate
+quiero bloquear el PC,lock_screen,immediate
+turn the volume down,volume_down,immediate
+pon música a las 6 de la tarde,play_music,scheduled
+dim the screen,adjust_brightness,immediate
+abre Word ahora mismo,open_word,immediate
+update Windows ahora mismo,update_system,scheduled
+take a screenshot asap,take_screenshot,immediate
+update Windows when possible,update_system,scheduled
+unmute at 9 AM,unmute_sound,scheduled
+mute the system tonight,mute_sound,scheduled
+check emails,check_email,immediate
+reduce el brillo,adjust_brightness,immediate
+restart computer,restart_computer,immediate
+detén la música más tarde,stop_music,scheduled
+check emails,check_email,immediate
+quiero ver mis mensajes when possible,check_email,immediate
+quiero cerrar esto después,close_window,scheduled
+enable sound ahora mismo,unmute_sound,immediate
+quiero abrir consola,open_terminal,immediate
+update Windows,update_system,scheduled
+schedule shutdown for tonight,shutdown_computer,scheduled
+pon música a las 6 de la tarde,play_music,scheduled
+reproduce mi playlist,play_music,immediate
+enable sound,unmute_sound,immediate
+pause my music asap,pause_music,immediate
+launch browser now asap,open_browser,immediate
+para la música ya,stop_music,immediate
+pon música a las 6 de la tarde,play_music,scheduled
+raise the volume,volume_up,immediate
+quiero cerrar esto después asap,close_window,scheduled
+launch browser now,open_browser,immediate
+detén la música un momento asap,pause_music,immediate
+haz una captura de pantalla,take_screenshot,immediate
+por favor ver mis mensajes asap,check_email,immediate
+lower the volume,volume_down,immediate
+baja el volumen,volume_down,immediate
+check mail in the morning,check_email,scheduled
+quiero editar un archivo ahora mismo,open_word,immediate
+abre Word,open_word,immediate
+reproduce mi playlist,play_music,immediate
+abre Excel mañana,open_excel,scheduled
+quiero que abras Edge,open_browser,immediate
+schedule shutdown for tonight,shutdown_computer,scheduled
+abre Excel mañana,open_excel,scheduled
+quiero ver mis mensajes,check_email,immediate
+abre Excel please,open_excel,immediate
+pausar la playlist en una hora,pause_music,immediate
+start backup now,run_backup,immediate
+update Windows please,update_system,scheduled
+haz una captura de pantalla,take_screenshot,immediate
+quiero escuchar algo ahora,play_music,immediate
+reduce el sonido,volume_down,immediate
+enable sound,unmute_sound,immediate
+haz un respaldo,run_backup,immediate
+quiero reiniciar ahora,restart_computer,immediate
+haz que reiniciar ahora,restart_computer,immediate
+activa el sonido,unmute_sound,immediate
+unmute at 9 AM,unmute_sound,scheduled
+silenciar todo when possible,mute_sound,immediate
+quiero escuchar algo ahora,play_music,immediate
+desactiva el silencio,unmute_sound,immediate
+pon música,play_music,immediate
+lower the volume,volume_down,immediate
+reinicia el PC,restart_computer,immediate
+open Word document,open_word,immediate
+abre Word,open_word,immediate
+check mail in the morning please,check_email,scheduled
+reproduce mi playlist,play_music,immediate
+restart computer ahora mismo,restart_computer,immediate
+cierra la ventana,close_window,immediate
+bloquea el sistema más tarde,lock_screen,scheduled
+lock screen now,lock_screen,immediate
+abre Excel mañana when possible,open_excel,scheduled
+schedule shutdown for tonight,shutdown_computer,scheduled
+open Chrome when possible,open_browser,immediate
+turn the volume down,volume_down,immediate
+update at 11 PM,update_system,scheduled
+pon música a las 6 de la tarde when possible,play_music,scheduled
+haz un respaldo please,run_backup,immediate
+enable sound please,unmute_sound,immediate
+cierra la ventana,close_window,immediate
+unmute my PC,unmute_sound,immediate
+pause the track asap,pause_music,immediate
+cierra la ventana ahora mismo,close_window,immediate
+abre el navegador,open_browser,immediate
+take screenshot at 9 AM,take_screenshot,scheduled
+quiero abrir una hoja de cálculo ahora mismo,open_excel,immediate
+lock my computer please,lock_screen,immediate
+shut down PC,shutdown_computer,immediate
+launch terminal now please,open_terminal,immediate
+open Word document,open_word,immediate
+toma una captura,take_screenshot,immediate
+check emails,check_email,immediate
+activa el sonido,unmute_sound,immediate
+update at 11 PM,update_system,scheduled
+turn off computer,shutdown_computer,immediate
+detén la música más tarde,stop_music,scheduled
+bloquea el sistema más tarde,lock_screen,scheduled
+restart computer,restart_computer,immediate
+start backup now asap,run_backup,immediate
+pause my music asap,pause_music,immediate
+restart computer,restart_computer,immediate
+sube el volumen,volume_up,immediate
+puedes abrir una hoja de cálculo,open_excel,immediate
+screenshot now,take_screenshot,immediate
+quiero bloquear el PC,lock_screen,immediate
+stop all songs ahora mismo,stop_music,immediate
+backup my data please,run_backup,scheduled
+detén la música más tarde,stop_music,scheduled
+restart at 3 AM,restart_computer,scheduled
+pon música,play_music,immediate
+pon música a las 6 de la tarde,play_music,scheduled
+detén la música más tarde,stop_music,scheduled
+mute the system tonight,mute_sound,scheduled
+abre el navegador,open_browser,immediate
+check mail in the morning,check_email,scheduled
+pause my music,pause_music,immediate
+restart computer,restart_computer,immediate
+abre Excel mañana,open_excel,scheduled
+toma una captura,take_screenshot,immediate
+reinicia el PC,restart_computer,immediate
+haz que ver mis mensajes asap,check_email,immediate
+reproduce mi playlist,play_music,immediate
+abre Firefox a las 8 PM,open_browser,scheduled
+reproduce mi playlist,play_music,immediate
+cierra la ventana,close_window,immediate
+haz un respaldo,run_backup,immediate
+close all windows,close_window,immediate
+sube el volumen,volume_up,immediate
+actualiza el sistema,update_system,immediate
+por favor reiniciar ahora when possible,restart_computer,immediate
+backup my data,run_backup,scheduled
+pause the track when possible,pause_music,immediate
+close the active window,close_window,immediate
+quiero ver mis mensajes,check_email,immediate
+schedule shutdown for tonight,shutdown_computer,scheduled
+update Windows,update_system,scheduled
+adjust brightness at night asap,adjust_brightness,scheduled
+por favor abrir una hoja de cálculo please,open_excel,immediate
+reinicia el PC,restart_computer,immediate
+silenciar todo,mute_sound,immediate
+lock my computer please,lock_screen,immediate
+quiero bloquear el PC,lock_screen,immediate
+quiero que abras Edge ahora mismo,open_browser,immediate
+quiero abrir consola please,open_terminal,immediate
+por favor ver mis mensajes,check_email,immediate
+para la música ya please,stop_music,immediate
+aumenta el sonido ahora,volume_up,immediate
+haz una actualización asap,update_system,immediate
+mute all,mute_sound,immediate
+quiero bloquear el PC,lock_screen,immediate
+raise the volume,volume_up,immediate
+detén la música más tarde,stop_music,scheduled
+haz un respaldo,run_backup,immediate
+para la música ya,stop_music,immediate
+bloquea el sistema más tarde,lock_screen,scheduled
+silencia el sonido when possible,mute_sound,immediate
+quiero cerrar esto después when possible,close_window,scheduled
+pausa la canción ahora mismo,pause_music,immediate
+mute all,mute_sound,immediate
+start backup now,run_backup,immediate
+cerrar la app ahora mismo,close_window,immediate
+abre Word,open_word,immediate
+mute the system tonight,mute_sound,scheduled
+launch terminal now,open_terminal,immediate
+run system backup,run_backup,immediate
+unmute my PC please,unmute_sound,immediate
+launch terminal now,open_terminal,immediate
+unmute my PC,unmute_sound,immediate
+puedes abrir una hoja de cálculo,open_excel,immediate
+quiero que abras Edge,open_browser,immediate
+sube el volumen a las 10 PM,volume_up,scheduled
+pausa la canción ahora mismo,pause_music,immediate
+open Excel file now,open_excel,immediate
+pon música a las 6 de la tarde,play_music,scheduled
+revisa mi correo when possible,check_email,immediate
+mute the system tonight,mute_sound,scheduled
+cerrar la app,close_window,immediate
+me gustaría cerrar esto después,close_window,scheduled
+mute the system tonight,mute_sound,scheduled
+start backup now,run_backup,immediate
+pon música,play_music,immediate
+pon música a las 6 de la tarde,play_music,scheduled
+haz que escuchar algo ahora,play_music,immediate
+quiero reiniciar ahora,restart_computer,immediate
+run system update now,update_system,scheduled
+close all windows,close_window,immediate
+aumenta el sonido ahora,volume_up,immediate
+run system update now ahora mismo,update_system,scheduled
+check mail in the morning,check_email,scheduled
+mute all,mute_sound,immediate
+silencia el sonido,mute_sound,immediate
+abre Excel,open_excel,immediate
+enable sound,unmute_sound,immediate
+activa el sonido,unmute_sound,immediate
+silenciar todo,mute_sound,immediate
+por favor abrir una hoja de cálculo please,open_excel,immediate
+open Word document,open_word,immediate
+detén la música un momento,pause_music,immediate
+abre Firefox a las 8 PM,open_browser,scheduled
+open inbox now please,check_email,immediate
+quiero bloquear el PC,lock_screen,immediate
+schedule shutdown for tonight,shutdown_computer,scheduled
+quiero cerrar esto después,close_window,scheduled
+lock screen now,lock_screen,immediate
+mute my PC,mute_sound,immediate
+check emails,check_email,immediate
+open Word at 7 AM,open_word,scheduled
+stop playing music,stop_music,immediate
+aumenta el sonido ahora,volume_up,immediate
+pausa la canción,pause_music,immediate
+backup my data when possible,run_backup,scheduled
+abre la terminal,open_terminal,immediate
+abre la terminal,open_terminal,immediate
+check mail in the morning when possible,check_email,scheduled
+abre Firefox a las 8 PM,open_browser,scheduled
+abre Word,open_word,immediate
+schedule shutdown for tonight,shutdown_computer,scheduled
+sube el volumen asap,volume_up,immediate
+schedule shutdown for tonight,shutdown_computer,scheduled
+start backup now,run_backup,immediate
+cerrar la app,close_window,immediate
+silencia el sonido,mute_sound,immediate
+enable sound when possible,unmute_sound,immediate
+turn up the volume,volume_up,immediate
+unmute my PC,unmute_sound,immediate
+enable sound,unmute_sound,immediate
+open command prompt,open_terminal,immediate
+quiero que abras Edge,open_browser,immediate
+adjust brightness at night,adjust_brightness,scheduled
+open Excel file now,open_excel,immediate
+abre la terminal,open_terminal,immediate
+haz que cerrar esto después ahora mismo,close_window,scheduled
+bloquea el sistema más tarde,lock_screen,scheduled
+reboot system please,restart_computer,immediate
+pausa la canción,pause_music,immediate
+quiero que abras Edge please,open_browser,immediate
+schedule shutdown for tonight,shutdown_computer,scheduled
+raise the volume,volume_up,immediate
+para la música ya please,stop_music,immediate
+apaga el computador,shutdown_computer,immediate
+pausa la canción,pause_music,immediate
+quiero bloquear el PC asap,lock_screen,immediate
+haz una actualización,update_system,immediate
+check emails,check_email,immediate
+open terminal at 10 AM,open_terminal,scheduled
+check emails when possible,check_email,immediate
+sube el volumen a las 10 PM,volume_up,scheduled
+reinicia el PC,restart_computer,immediate
+reboot system,restart_computer,immediate
+pause the track,pause_music,immediate
+open Word document,open_word,immediate
+open Word at 7 AM,open_word,scheduled
+puedes reiniciar ahora,restart_computer,immediate
+actualiza el sistema,update_system,immediate
+apaga el computador,shutdown_computer,immediate
+open inbox now,check_email,immediate
+unmute my PC,unmute_sound,immediate
+quiero bloquear el PC,lock_screen,immediate
+abre Firefox a las 8 PM,open_browser,scheduled
+open command prompt,open_terminal,immediate
+haz una actualización asap,update_system,immediate
+haz una captura de pantalla,take_screenshot,immediate
+pon música,play_music,immediate
+turn up the volume,volume_up,immediate
+check mail in the morning,check_email,scheduled
+detén la música más tarde,stop_music,scheduled
+quiero ver mis mensajes,check_email,immediate
+restart at 3 AM,restart_computer,scheduled
+launch Microsoft Word,open_word,immediate
+reproduce mi playlist,play_music,immediate
+launch terminal now,open_terminal,immediate
+pause my music,pause_music,immediate
+desactiva el silencio,unmute_sound,immediate
+abre la terminal,open_terminal,immediate
+pon música a las 6 de la tarde,play_music,scheduled
+abre Excel mañana,open_excel,scheduled
+revisa mi correo,check_email,immediate
+open command prompt please,open_terminal,immediate
+launch Microsoft Word,open_word,immediate
+dim the screen,adjust_brightness,immediate
+unmute my PC please,unmute_sound,immediate
+quiero editar un archivo,open_word,immediate
+abre Firefox a las 8 PM,open_browser,scheduled
+update Windows,update_system,scheduled
+turn off computer,shutdown_computer,immediate
+abre Excel mañana,open_excel,scheduled
+stop playing music,stop_music,immediate
+bloquea el sistema más tarde ahora mismo,lock_screen,scheduled
+pon música a las 6 de la tarde,play_music,scheduled
+para la música ya when possible,stop_music,immediate
+play some music,play_music,immediate
+open Word at 7 AM,open_word,scheduled
+play some music,play_music,immediate
+open Excel file now,open_excel,immediate
+launch Microsoft Word,open_word,immediate
+reproduce mi playlist,play_music,immediate
+quiero reiniciar ahora,restart_computer,immediate
+lower the volume,volume_down,immediate
+update Windows when possible,update_system,scheduled
+schedule shutdown for tonight,shutdown_computer,scheduled
+reproduce mi playlist,play_music,immediate
+puedes ver mis mensajes,check_email,immediate
+quiero apagar todo ya,shutdown_computer,immediate
+close all windows,close_window,immediate
+pon música,play_music,immediate
+open spreadsheet,open_excel,immediate
+sube el volumen,volume_up,immediate
+bloquea la pantalla asap,lock_screen,immediate
+quiero cerrar esto después,close_window,scheduled
+haz una captura de pantalla,take_screenshot,immediate
+reproduce mi playlist,play_music,immediate
+mute my PC,mute_sound,immediate
+schedule shutdown for tonight,shutdown_computer,scheduled
+detén la música un momento,pause_music,immediate
+quiero ver mis mensajes please,check_email,immediate
+turn up the volume when possible,volume_up,immediate
+play some music,play_music,immediate
+lower the volume,volume_down,immediate
+silencia el sonido,mute_sound,immediate
+take a screenshot,take_screenshot,immediate
+silenciar todo asap,mute_sound,immediate
+revisa mi correo,check_email,immediate
+lower the volume,volume_down,immediate
+por favor ver mis mensajes asap,check_email,immediate
+actualiza el sistema ahora mismo,update_system,immediate
+activa el sonido,unmute_sound,immediate
+cerrar la app,close_window,immediate
+play some music,play_music,immediate
+restart at 3 AM,restart_computer,scheduled
+abre Excel mañana,open_excel,scheduled
+schedule shutdown for tonight,shutdown_computer,scheduled
+update Windows,update_system,scheduled
+open spreadsheet,open_excel,immediate
+pause my music,pause_music,immediate
+cerrar la app,close_window,immediate
+abre la terminal,open_terminal,immediate
+baja el volumen,volume_down,immediate
+lock my computer,lock_screen,immediate
+haz una actualización,update_system,immediate
+detén la música,stop_music,immediate
+open spreadsheet,open_excel,immediate
+run system backup,run_backup,immediate
+baja el volumen por la noche asap,volume_down,immediate
+play some music,play_music,immediate
+detén la música más tarde,stop_music,scheduled
+quiero cerrar esto después asap,close_window,scheduled
+open Word document,open_word,immediate
+launch browser now,open_browser,immediate
+take a screenshot,take_screenshot,immediate
+revisa mi correo,check_email,immediate
+open inbox now,check_email,immediate
+haz una actualización asap,update_system,immediate
+reproduce mi playlist,play_music,immediate
+unmute at 9 AM,unmute_sound,scheduled
+launch browser now,open_browser,immediate
+por favor reiniciar ahora,restart_computer,immediate
+quiero cerrar esto después,close_window,scheduled
+ajusta el brillo,adjust_brightness,immediate
+para la música ya asap,stop_music,immediate
+screenshot now,take_screenshot,immediate
+stop all songs,stop_music,immediate
+mute the system tonight,mute_sound,scheduled
+bloquea el sistema más tarde asap,lock_screen,scheduled
+update Windows,update_system,scheduled
+abre Firefox a las 8 PM,open_browser,scheduled
+sube el volumen a las 10 PM,volume_up,scheduled
+close the active window,close_window,immediate
+silencia el sonido,mute_sound,immediate
+check emails,check_email,immediate
+detén la música un momento,pause_music,immediate
+bloquea el sistema más tarde please,lock_screen,scheduled
+backup my data,run_backup,scheduled
+turn the volume down,volume_down,immediate
+mute all,mute_sound,immediate
+haz que ver mis mensajes asap,check_email,immediate
+abre Excel mañana when possible,open_excel,scheduled
+puedes ver mis mensajes,check_email,immediate
+sube el volumen,volume_up,immediate
+run system backup,run_backup,immediate
+apaga el computador,shutdown_computer,immediate
+quiero apagar todo ya,shutdown_computer,immediate
+enable sound please,unmute_sound,immediate
+lock screen now,lock_screen,immediate
+run system backup,run_backup,immediate
+detén la música más tarde,stop_music,scheduled
+ajusta el brillo please,adjust_brightness,immediate
+mute the system tonight,mute_sound,scheduled
+pon música a las 6 de la tarde,play_music,scheduled
+sube el volumen a las 10 PM when possible,volume_up,scheduled
+quiero reiniciar ahora when possible,restart_computer,immediate
+quiero editar un archivo,open_word,immediate
+sube el volumen a las 10 PM,volume_up,scheduled
+enable sound ahora mismo,unmute_sound,immediate
+abre Firefox a las 8 PM,open_browser,scheduled
+take screenshot at 9 AM,take_screenshot,scheduled
+revisa mi correo,check_email,immediate
+adjust brightness at night please,adjust_brightness,scheduled
+set brightness to low now,adjust_brightness,immediate
+turn off computer,shutdown_computer,immediate
+me gustaría bloquear el PC,lock_screen,immediate
+puedes editar un archivo,open_word,immediate
+run system update now,update_system,scheduled
+detén la música más tarde,stop_music,scheduled
+turn up the volume,volume_up,immediate
+quiero apagar todo ya ahora mismo,shutdown_computer,immediate
+quiero ver mis mensajes,check_email,immediate
+ajusta el brillo,adjust_brightness,immediate
+open inbox now ahora mismo,check_email,immediate
+pon música a las 6 de la tarde,play_music,scheduled
+sube el volumen a las 10 PM asap,volume_up,scheduled
+screenshot now,take_screenshot,immediate
+start backup now,run_backup,immediate
+restart at 3 AM,restart_computer,scheduled
+start backup now,run_backup,immediate
+bloquea la pantalla,lock_screen,immediate
+check emails please,check_email,immediate
+play some music,play_music,immediate
+abre el navegador,open_browser,immediate
+restart at 3 AM ahora mismo,restart_computer,scheduled
+lower the volume,volume_down,immediate
+baja el volumen por la noche,volume_down,immediate
+backup my data,run_backup,scheduled
+haz una captura de pantalla when possible,take_screenshot,immediate
+unmute my PC,unmute_sound,immediate
+mute my PC,mute_sound,immediate
+quiero cerrar esto después,close_window,scheduled
+reproduce mi playlist,play_music,immediate
+haz que ver mis mensajes,check_email,immediate
+open spreadsheet asap,open_excel,immediate
+turn up the volume,volume_up,immediate
+lock my computer,lock_screen,immediate
+mute the system tonight when possible,mute_sound,scheduled
+haz un respaldo,run_backup,immediate
+abre Excel mañana please,open_excel,scheduled
+stop all songs,stop_music,immediate
+quiero cerrar esto después,close_window,scheduled
+actualiza el sistema,update_system,immediate
+abre Excel mañana please,open_excel,scheduled
+puedes ver mis mensajes,check_email,immediate
+detén la música,stop_music,immediate
+pon música a las 6 de la tarde ahora mismo,play_music,scheduled
+check mail in the morning ahora mismo,check_email,scheduled
+adjust brightness at night,adjust_brightness,scheduled
+turn off computer,shutdown_computer,immediate
+sube el volumen a las 10 PM when possible,volume_up,scheduled
+lower the volume,volume_down,immediate
+update Windows,update_system,scheduled
+ajusta el brillo,adjust_brightness,immediate
+update Windows,update_system,scheduled
+mute my PC,mute_sound,immediate
+dim the screen,adjust_brightness,immediate
+close all windows,close_window,immediate
+revisa mi correo asap,check_email,immediate
+quiero editar un archivo,open_word,immediate
+turn up the volume,volume_up,immediate
+open Word at 7 AM,open_word,scheduled
+mute my PC,mute_sound,immediate
+open terminal at 10 AM,open_terminal,scheduled
+pause my music,pause_music,immediate
+launch Microsoft Word,open_word,immediate
+adjust brightness at night,adjust_brightness,scheduled
+pon música a las 6 de la tarde,play_music,scheduled
+cerrar la app,close_window,immediate
+reinicia el PC,restart_computer,immediate
+start backup now,run_backup,immediate
+pon música a las 6 de la tarde,play_music,scheduled
+open spreadsheet,open_excel,immediate
+open inbox now,check_email,immediate
+reproduce mi playlist,play_music,immediate
+actualiza el sistema,update_system,immediate
+take a screenshot ahora mismo,take_screenshot,immediate
+unmute at 9 AM,unmute_sound,scheduled
+abre Word,open_word,immediate
+open Excel file now please,open_excel,immediate
+update at 11 PM asap,update_system,scheduled
+apaga el computador,shutdown_computer,immediate
+baja el volumen ahora mismo,volume_down,immediate
+open terminal at 10 AM please,open_terminal,scheduled
+reinicia el PC,restart_computer,immediate
+abre la terminal,open_terminal,immediate
+open Word at 7 AM,open_word,scheduled
+abre la terminal,open_terminal,immediate
+schedule shutdown for tonight when possible,shutdown_computer,scheduled
+screenshot now,take_screenshot,immediate
+baja el volumen,volume_down,immediate
+baja el volumen,volume_down,immediate
+baja el volumen,volume_down,immediate
+take screenshot at 9 AM,take_screenshot,scheduled
+haz un respaldo,run_backup,immediate
+update Windows,update_system,scheduled
+aumenta el sonido ahora,volume_up,immediate
+actualiza el sistema,update_system,immediate
+mute my PC when possible,mute_sound,immediate
+baja el volumen,volume_down,immediate
+sube el volumen a las 10 PM,volume_up,scheduled
+detén la música más tarde,stop_music,scheduled
+detén la música más tarde,stop_music,scheduled
+bloquea el sistema más tarde,lock_screen,scheduled
+pausa la canción,pause_music,immediate
+enable sound,unmute_sound,immediate
+run system update now asap,update_system,scheduled
+abre Excel mañana,open_excel,scheduled
+backup my data,run_backup,scheduled
+dim the screen,adjust_brightness,immediate
+por favor cerrar esto después,close_window,scheduled
+mute my PC,mute_sound,immediate
+detén la música más tarde,stop_music,scheduled
+pausa la canción,pause_music,immediate
+open Word document,open_word,immediate
+haz una captura de pantalla,take_screenshot,immediate
+open Word document,open_word,immediate
+apaga el computador asap,shutdown_computer,immediate
+take a screenshot,take_screenshot,immediate
+take screenshot at 9 AM asap,take_screenshot,scheduled
+shut down PC when possible,shutdown_computer,immediate
+cierra la ventana,close_window,immediate
+reinicia el PC,restart_computer,immediate
+dim the screen,adjust_brightness,immediate
+baja el volumen por la noche,volume_down,immediate
+abre Word,open_word,immediate
+mute all asap,mute_sound,immediate
+activa el sonido,unmute_sound,immediate
+launch Microsoft Word ahora mismo,open_word,immediate
+stop all songs,stop_music,immediate
+open Word at 7 AM,open_word,scheduled
+check mail in the morning when possible,check_email,scheduled
+mute my PC,mute_sound,immediate
+start backup now,run_backup,immediate
+take screenshot at 9 AM,take_screenshot,scheduled
+run system backup,run_backup,immediate
+detén la música,stop_music,immediate
+haz un respaldo,run_backup,immediate
+revisa mi correo please,check_email,immediate
+update at 11 PM please,update_system,scheduled
+update Windows please,update_system,scheduled
+open terminal at 10 AM ahora mismo,open_terminal,scheduled
+update Windows,update_system,scheduled
+detén la música más tarde,stop_music,scheduled
+pausa la canción,pause_music,immediate
+reboot system,restart_computer,immediate
+desactiva el silencio,unmute_sound,immediate
+lock my computer,lock_screen,immediate
+start backup now please,run_backup,immediate
+update at 11 PM,update_system,scheduled
+abre Word when possible,open_word,immediate
+close the active window,close_window,immediate
+unmute my PC,unmute_sound,immediate
+backup my data,run_backup,scheduled
+adjust brightness at night,adjust_brightness,scheduled
+actualiza el sistema,update_system,immediate
+quiero que abras Edge,open_browser,immediate
+pon música a las 6 de la tarde ahora mismo,play_music,scheduled
+quiero abrir una hoja de cálculo,open_excel,immediate
+reinicia el PC when possible,restart_computer,immediate
+open Word document,open_word,immediate
+schedule shutdown for tonight,shutdown_computer,scheduled
+play some music ahora mismo,play_music,immediate
+play some music,play_music,immediate
+launch terminal now,open_terminal,immediate
+mute the system tonight,mute_sound,scheduled
+backup my data,run_backup,scheduled
+reduce el sonido,volume_down,immediate
+abre Excel mañana asap,open_excel,scheduled
+update at 11 PM,update_system,scheduled
+reduce el sonido,volume_down,immediate
+start backup now,run_backup,immediate
+turn off computer,shutdown_computer,immediate
+mute my PC,mute_sound,immediate
+quiero apagar todo ya,shutdown_computer,immediate
+actualiza el sistema when possible,update_system,immediate
+quiero editar un archivo,open_word,immediate
+adjust brightness at night,adjust_brightness,scheduled
+abre Firefox a las 8 PM,open_browser,scheduled
+abre Firefox a las 8 PM,open_browser,scheduled
+launch terminal now,open_terminal,immediate
+abre Firefox a las 8 PM,open_browser,scheduled
+sube el volumen a las 10 PM,volume_up,scheduled
+adjust brightness at night,adjust_brightness,scheduled
+run system update now,update_system,scheduled
+pon música a las 6 de la tarde,play_music,scheduled
+puedes abrir una hoja de cálculo,open_excel,immediate
+update at 11 PM,update_system,scheduled
+silencia el sonido,mute_sound,immediate
+take a screenshot,take_screenshot,immediate
+screenshot now,take_screenshot,immediate
+take a screenshot,take_screenshot,immediate
+baja el volumen,volume_down,immediate
+unmute at 9 AM,unmute_sound,scheduled
+open Word document,open_word,immediate
+enable sound,unmute_sound,immediate
+abre Excel,open_excel,immediate
+abre Word,open_word,immediate
+mute my PC,mute_sound,immediate
+update at 11 PM,update_system,scheduled
+stop playing music,stop_music,immediate
+stop playing music,stop_music,immediate
+open Chrome,open_browser,immediate
+open terminal at 10 AM,open_terminal,scheduled
+quiero apagar todo ya,shutdown_computer,immediate
+haz una captura de pantalla,take_screenshot,immediate
+unmute my PC,unmute_sound,immediate
+abre Firefox a las 8 PM,open_browser,scheduled
+abre Firefox a las 8 PM,open_browser,scheduled
+sube el volumen,volume_up,immediate
+lock screen now,lock_screen,immediate
+restart computer when possible,restart_computer,immediate
+pause the track,pause_music,immediate
+open Word document please,open_word,immediate
+shut down PC,shutdown_computer,immediate
+lower the volume,volume_down,immediate
+turn the volume down,volume_down,immediate
+open terminal at 10 AM,open_terminal,scheduled
+haz una captura de pantalla,take_screenshot,immediate
+schedule shutdown for tonight,shutdown_computer,scheduled
+lock screen now,lock_screen,immediate
+baja el volumen,volume_down,immediate
+lower the volume,volume_down,immediate
+bloquea el sistema más tarde asap,lock_screen,scheduled
+pon música a las 6 de la tarde,play_music,scheduled
+sube el volumen a las 10 PM,volume_up,scheduled
+screenshot now,take_screenshot,immediate
+ajusta el brillo,adjust_brightness,immediate
+baja el volumen when possible,volume_down,immediate
+open spreadsheet,open_excel,immediate
+open Word at 7 AM asap,open_word,scheduled
+sube el volumen a las 10 PM,volume_up,scheduled
+haz que escuchar algo ahora,play_music,immediate
+launch Microsoft Word when possible,open_word,immediate
+cierra la ventana,close_window,immediate
+unmute my PC,unmute_sound,immediate
+pon música a las 6 de la tarde ahora mismo,play_music,scheduled
+open inbox now please,check_email,immediate
+reduce el brillo,adjust_brightness,immediate
+ajusta el brillo,adjust_brightness,immediate
+adjust brightness at night please,adjust_brightness,scheduled
+backup my data,run_backup,scheduled
+raise the volume,volume_up,immediate
+turn up the volume,volume_up,immediate
+check mail in the morning,check_email,scheduled
+run system backup,run_backup,immediate
+ajusta el brillo,adjust_brightness,immediate
+start backup now,run_backup,immediate
+mute the system tonight ahora mismo,mute_sound,scheduled
+open command prompt,open_terminal,immediate
+adjust brightness at night,adjust_brightness,scheduled
+run system update now,update_system,scheduled
+reduce el sonido,volume_down,immediate
+schedule shutdown for tonight,shutdown_computer,scheduled
+check emails,check_email,immediate
+restart at 3 AM,restart_computer,scheduled
+open spreadsheet asap,open_excel,immediate
+pon música,play_music,immediate
+baja el volumen,volume_down,immediate
+reinicia el PC please,restart_computer,immediate
+dim the screen,adjust_brightness,immediate
+run backup at midnight asap,run_backup,scheduled
+turn up the volume,volume_up,immediate
+quiero cerrar esto después,close_window,scheduled
+open inbox now,check_email,immediate
+open terminal at 10 AM,open_terminal,scheduled
+quiero cerrar esto después,close_window,scheduled
+take a screenshot,take_screenshot,immediate
+check emails,check_email,immediate
+stop playing music,stop_music,immediate
+sube el volumen a las 10 PM,volume_up,scheduled
+backup my data,run_backup,scheduled
+enable sound,unmute_sound,immediate
+abre el navegador ahora mismo,open_browser,immediate
+turn off computer,shutdown_computer,immediate
+abre Firefox a las 8 PM,open_browser,scheduled
+turn up the volume,volume_up,immediate
+abre Firefox a las 8 PM,open_browser,scheduled
+quiero abrir consola,open_terminal,immediate
+bloquea el sistema más tarde,lock_screen,scheduled
+quiero ver mis mensajes,check_email,immediate
+lock screen now,lock_screen,immediate
+enable sound,unmute_sound,immediate
+mute the system tonight,mute_sound,scheduled
+sube el volumen a las 10 PM,volume_up,scheduled
+adjust brightness at night,adjust_brightness,scheduled
+raise the volume please,volume_up,immediate
+sube el volumen,volume_up,immediate
+open terminal at 10 AM,open_terminal,scheduled
+open command prompt ahora mismo,open_terminal,immediate
+sube el volumen a las 10 PM,volume_up,scheduled
+update at 11 PM,update_system,scheduled
+launch Microsoft Word,open_word,immediate
+pausa la canción ahora mismo,pause_music,immediate
+schedule shutdown for tonight please,shutdown_computer,scheduled
+quiero escuchar algo ahora,play_music,immediate
+baja el volumen por la noche,volume_down,immediate
+para la música ya,stop_music,immediate
+take screenshot at 9 AM,take_screenshot,scheduled
+turn off computer,shutdown_computer,immediate
+baja el volumen por la noche when possible,volume_down,immediate
+pon música a las 6 de la tarde please,play_music,scheduled
+abre la terminal,open_terminal,immediate
+unmute my PC please,unmute_sound,immediate
+reproduce mi playlist,play_music,immediate
+abre Word,open_word,immediate
+set brightness to low now please,adjust_brightness,immediate
+shut down PC,shutdown_computer,immediate
+pon música a las 6 de la tarde please,play_music,scheduled
+reduce el brillo,adjust_brightness,immediate
+open terminal at 10 AM,open_terminal,scheduled
+mute my PC,mute_sound,immediate
+adjust brightness at night,adjust_brightness,scheduled
+reinicia el PC,restart_computer,immediate
+revisa mi correo ahora mismo,check_email,immediate
+reproduce mi playlist,play_music,immediate
+silencia el sonido,mute_sound,immediate
+launch Microsoft Word ahora mismo,open_word,immediate
+reinicia el PC,restart_computer,immediate
+backup my data,run_backup,scheduled
+take a screenshot asap,take_screenshot,immediate
+pausar la playlist en una hora ahora mismo,pause_music,immediate
+sube el volumen a las 10 PM,volume_up,scheduled
+run backup at midnight,run_backup,scheduled
+open Word at 7 AM,open_word,scheduled
+check mail in the morning,check_email,scheduled
+aumenta el sonido ahora,volume_up,immediate
+run backup at midnight,run_backup,scheduled
+schedule shutdown for tonight,shutdown_computer,scheduled
+take a screenshot when possible,take_screenshot,immediate
+play some music,play_music,immediate
+raise the volume,volume_up,immediate
+haz una actualización,update_system,immediate
+quiero abrir consola,open_terminal,immediate
+apaga el computador,shutdown_computer,immediate
+open spreadsheet,open_excel,immediate
+unmute at 9 AM,unmute_sound,scheduled
+open terminal at 10 AM,open_terminal,scheduled
+enable sound,unmute_sound,immediate
+detén la música más tarde ahora mismo,stop_music,scheduled
+dim the screen,adjust_brightness,immediate
+sube el volumen a las 10 PM ahora mismo,volume_up,scheduled
+restart computer when possible,restart_computer,immediate
+silencia el sonido asap,mute_sound,immediate
+revisa mi correo,check_email,immediate
+reproduce mi playlist,play_music,immediate
+take screenshot at 9 AM,take_screenshot,scheduled
+update Windows,update_system,scheduled
+reinicia el PC,restart_computer,immediate
+reduce el sonido,volume_down,immediate
+open Word document ahora mismo,open_word,immediate
+backup my data,run_backup,scheduled
+bloquea la pantalla,lock_screen,immediate
+pause the track,pause_music,immediate
+run backup at midnight,run_backup,scheduled
+abre Firefox a las 8 PM,open_browser,scheduled
+reinicia el PC,restart_computer,immediate
+cerrar la app,close_window,immediate
+enable sound,unmute_sound,immediate
+reinicia el PC,restart_computer,immediate
+abre Firefox a las 8 PM,open_browser,scheduled
+revisa mi correo,check_email,immediate
+run system update now asap,update_system,scheduled
+run backup at midnight,run_backup,scheduled
+me gustaría cerrar esto después asap,close_window,scheduled
+start backup now,run_backup,immediate
+reduce el sonido please,volume_down,immediate
+silencia el sonido asap,mute_sound,immediate
+take screenshot at 9 AM ahora mismo,take_screenshot,scheduled
+run system update now,update_system,scheduled
+turn off computer,shutdown_computer,immediate
+update at 11 PM,update_system,scheduled
+apaga el computador,shutdown_computer,immediate
+reduce el sonido,volume_down,immediate
+para la música ya please,stop_music,immediate
+silencia el sonido,mute_sound,immediate
+unmute at 9 AM,unmute_sound,scheduled
+baja el volumen,volume_down,immediate
+unmute at 9 AM,unmute_sound,scheduled
+turn the volume down,volume_down,immediate
+restart at 3 AM,restart_computer,scheduled
+silencia el sonido asap,mute_sound,immediate
+open Word at 7 AM,open_word,scheduled
+check mail in the morning ahora mismo,check_email,scheduled
+open terminal at 10 AM ahora mismo,open_terminal,scheduled
+detén la música más tarde,stop_music,scheduled
+detén la música,stop_music,immediate
+stop playing music when possible,stop_music,immediate
+play some music,play_music,immediate
+update at 11 PM,update_system,scheduled
+update at 11 PM please,update_system,scheduled
+screenshot now,take_screenshot,immediate
+take a screenshot ahora mismo,take_screenshot,immediate
+schedule shutdown for tonight,shutdown_computer,scheduled
+quiero apagar todo ya ahora mismo,shutdown_computer,immediate
+enable sound ahora mismo,unmute_sound,immediate
+abre Firefox a las 8 PM,open_browser,scheduled
+start backup now,run_backup,immediate
+start backup now,run_backup,immediate
+open Excel file now,open_excel,immediate
+turn off computer asap,shutdown_computer,immediate
+apaga el computador,shutdown_computer,immediate
+update Windows please,update_system,scheduled
+silenciar todo,mute_sound,immediate
+haz una captura de pantalla,take_screenshot,immediate
+abre Firefox a las 8 PM,open_browser,scheduled
+launch Microsoft Word,open_word,immediate
+desactiva el silencio,unmute_sound,immediate
+bloquea la pantalla,lock_screen,immediate
+turn off computer,shutdown_computer,immediate
+close the active window,close_window,immediate
+mute the system tonight,mute_sound,scheduled
+puedes apagar todo ya,shutdown_computer,immediate
+open spreadsheet,open_excel,immediate
+bloquea la pantalla,lock_screen,immediate
+abre Firefox a las 8 PM,open_browser,scheduled
+run backup at midnight,run_backup,scheduled
+sube el volumen,volume_up,immediate
+check emails when possible,check_email,immediate
+revisa mi correo,check_email,immediate
+reboot system,restart_computer,immediate
+backup my data,run_backup,scheduled
+update at 11 PM,update_system,scheduled
+close the active window,close_window,immediate
+reproduce mi playlist asap,play_music,immediate
+unmute at 9 AM,unmute_sound,scheduled
+turn the volume down,volume_down,immediate
+silencia el sonido,mute_sound,immediate
+close all windows,close_window,immediate
+pausa la canción,pause_music,immediate
+reduce el sonido,volume_down,immediate
+activa el sonido,unmute_sound,immediate
+baja el volumen,volume_down,immediate
+reduce el brillo,adjust_brightness,immediate
+turn up the volume,volume_up,immediate
+abre Firefox a las 8 PM,open_browser,scheduled
+pause the track,pause_music,immediate
+unmute at 9 AM,unmute_sound,scheduled
+open inbox now,check_email,immediate
+shut down PC,shutdown_computer,immediate
+pon música a las 6 de la tarde,play_music,scheduled
+check mail in the morning,check_email,scheduled
+unmute at 9 AM please,unmute_sound,scheduled
+take a screenshot,take_screenshot,immediate
+start backup now,run_backup,immediate
+actualiza el sistema,update_system,immediate
+restart at 3 AM,restart_computer,scheduled
+cerrar la app,close_window,immediate
+abre Excel mañana,open_excel,scheduled
+open Word document,open_word,immediate
+quiero ver mis mensajes,check_email,immediate
+revisa mi correo,check_email,immediate
+check mail in the morning,check_email,scheduled
+abre Excel mañana asap,open_excel,scheduled
+silenciar todo,mute_sound,immediate
+restart computer,restart_computer,immediate
+raise the volume,volume_up,immediate
+reproduce mi playlist asap,play_music,immediate
+abre Firefox a las 8 PM,open_browser,scheduled
+silenciar todo,mute_sound,immediate
+haz una actualización,update_system,immediate
+run backup at midnight,run_backup,scheduled
+adjust brightness at night,adjust_brightness,scheduled
+mute the system tonight,mute_sound,scheduled
+screenshot now,take_screenshot,immediate
+restart at 3 AM,restart_computer,scheduled
+quiero reiniciar ahora,restart_computer,immediate
+backup my data,run_backup,scheduled
+backup my data ahora mismo,run_backup,scheduled
+haz una captura de pantalla ahora mismo,take_screenshot,immediate
+run system update now asap,update_system,scheduled
+check mail in the morning,check_email,scheduled
+baja el volumen when possible,volume_down,immediate
+restart computer,restart_computer,immediate
+pausa la canción,pause_music,immediate
+update Windows,update_system,scheduled
+update Windows,update_system,scheduled
+enable sound,unmute_sound,immediate
+backup my data,run_backup,scheduled
+haz una actualización,update_system,immediate
+quiero editar un archivo,open_word,immediate
+run backup at midnight please,run_backup,scheduled
+enable sound,unmute_sound,immediate
+set brightness to low now,adjust_brightness,immediate
+pon música a las 6 de la tarde,play_music,scheduled
+apaga el computador,shutdown_computer,immediate
+shut down PC when possible,shutdown_computer,immediate
+baja el volumen,volume_down,immediate
+abre el navegador,open_browser,immediate
+silenciar todo,mute_sound,immediate
+adjust brightness at night please,adjust_brightness,scheduled
+pon música a las 6 de la tarde,play_music,scheduled
+play some music,play_music,immediate
+launch terminal now asap,open_terminal,immediate
+detén la música un momento when possible,pause_music,immediate
+open terminal at 10 AM asap,open_terminal,scheduled
+reinicia el PC,restart_computer,immediate
+detén la música un momento asap,pause_music,immediate
+abre Word,open_word,immediate
+pause the track asap,pause_music,immediate
+shut down PC,shutdown_computer,immediate
+turn off computer,shutdown_computer,immediate
+reduce el sonido,volume_down,immediate
+play some music,play_music,immediate
+haz que bloquear el PC,lock_screen,immediate
+detén la música un momento,pause_music,immediate
+open spreadsheet,open_excel,immediate
+take screenshot at 9 AM,take_screenshot,scheduled
+pon música a las 6 de la tarde asap,play_music,scheduled
+detén la música un momento,pause_music,immediate
+silenciar todo ahora mismo,mute_sound,immediate
+run system backup,run_backup,immediate
+silenciar todo,mute_sound,immediate
+reboot system ahora mismo,restart_computer,immediate
+run system update now,update_system,scheduled
+reproduce mi playlist,play_music,immediate
+revisa mi correo when possible,check_email,immediate
+take screenshot at 9 AM,take_screenshot,scheduled
+reinicia el PC,restart_computer,immediate
+mute my PC,mute_sound,immediate
+quiero bloquear el PC ahora mismo,lock_screen,immediate
+unmute at 9 AM,unmute_sound,scheduled
+mute my PC please,mute_sound,immediate
+turn off computer,shutdown_computer,immediate
+abre el navegador,open_browser,immediate
+baja el volumen por la noche,volume_down,immediate
+adjust brightness at night,adjust_brightness,scheduled
+close the active window,close_window,immediate
+update Windows,update_system,scheduled
+bloquea la pantalla,lock_screen,immediate
+bloquea el sistema más tarde,lock_screen,scheduled
+baja el volumen,volume_down,immediate
+launch terminal now,open_terminal,immediate
+open inbox now,check_email,immediate
+quiero abrir consola when possible,open_terminal,immediate
+ajusta el brillo,adjust_brightness,immediate
+restart at 3 AM,restart_computer,scheduled
+update Windows,update_system,scheduled
+adjust brightness at night,adjust_brightness,scheduled
+cerrar la app,close_window,immediate
+reproduce mi playlist,play_music,immediate
+detén la música más tarde please,stop_music,scheduled
+silenciar todo,mute_sound,immediate
+silenciar todo,mute_sound,immediate
+close all windows,close_window,immediate
+shut down PC asap,shutdown_computer,immediate
+detén la música,stop_music,immediate
+launch terminal now,open_terminal,immediate
+backup my data,run_backup,scheduled
+lock my computer,lock_screen,immediate
+unmute my PC,unmute_sound,immediate
+lock my computer,lock_screen,immediate
+open terminal at 10 AM,open_terminal,scheduled
+launch browser now,open_browser,immediate
+abre Firefox a las 8 PM,open_browser,scheduled
+quiero bloquear el PC asap,lock_screen,immediate
+pausa la canción,pause_music,immediate
+backup my data,run_backup,scheduled
+dim the screen,adjust_brightness,immediate
+pon música a las 6 de la tarde when possible,play_music,scheduled
+close all windows,close_window,immediate
+restart at 3 AM,restart_computer,scheduled
+open command prompt,open_terminal,immediate
+silencia el sonido,mute_sound,immediate
+abre Excel mañana,open_excel,scheduled
+open command prompt,open_terminal,immediate
+lock screen now when possible,lock_screen,immediate
+lower the volume,volume_down,immediate
+open inbox now ahora mismo,check_email,immediate
+abre Firefox a las 8 PM,open_browser,scheduled
+unmute my PC,unmute_sound,immediate
+quiero que abras Edge,open_browser,immediate
+open Chrome,open_browser,immediate
+aumenta el sonido ahora ahora mismo,volume_up,immediate
+sube el volumen a las 10 PM ahora mismo,volume_up,scheduled
+pause the track,pause_music,immediate
+quiero apagar todo ya,shutdown_computer,immediate
+turn up the volume,volume_up,immediate
+ajusta el brillo when possible,adjust_brightness,immediate
+detén la música,stop_music,immediate
+open Word at 7 AM,open_word,scheduled
+mute the system tonight,mute_sound,scheduled
+quiero bloquear el PC,lock_screen,immediate
+detén la música,stop_music,immediate
+haz que bloquear el PC,lock_screen,immediate
+reduce el sonido,volume_down,immediate
+activa el sonido please,unmute_sound,immediate
+screenshot now,take_screenshot,immediate
+por favor apagar todo ya,shutdown_computer,immediate
+run backup at midnight,run_backup,scheduled
+detén la música más tarde,stop_music,scheduled
+por favor reiniciar ahora,restart_computer,immediate
+update Windows ahora mismo,update_system,scheduled
+launch Microsoft Word,open_word,immediate
+sube el volumen,volume_up,immediate
+apaga el computador,shutdown_computer,immediate
+me gustaría cerrar esto después,close_window,scheduled
+revisa mi correo,check_email,immediate
+sube el volumen a las 10 PM,volume_up,scheduled
+baja el volumen,volume_down,immediate
+schedule shutdown for tonight,shutdown_computer,scheduled
+detén la música un momento when possible,pause_music,immediate
+launch terminal now,open_terminal,immediate
+open Chrome,open_browser,immediate
+detén la música un momento,pause_music,immediate
+mute the system tonight,mute_sound,scheduled
+pausar la playlist en una hora,pause_music,immediate
+backup my data asap,run_backup,scheduled
+quiero editar un archivo,open_word,immediate
+pon música a las 6 de la tarde,play_music,scheduled
+backup my data,run_backup,scheduled
+ajusta el brillo,adjust_brightness,immediate
+enable sound,unmute_sound,immediate
+open Word document,open_word,immediate
+ajusta el brillo,adjust_brightness,immediate
+take screenshot at 9 AM,take_screenshot,scheduled
+reduce el sonido,volume_down,immediate
+haz que cerrar esto después,close_window,scheduled
+update at 11 PM asap,update_system,scheduled
+reinicia el PC,restart_computer,immediate
+apaga el computador,shutdown_computer,immediate
+check mail in the morning,check_email,scheduled
+check mail in the morning,check_email,scheduled
+cerrar la app,close_window,immediate
+shut down PC,shutdown_computer,immediate
+check emails,check_email,immediate
+quiero reiniciar ahora,restart_computer,immediate
+abre Firefox a las 8 PM please,open_browser,scheduled
+adjust brightness at night asap,adjust_brightness,scheduled
+unmute at 9 AM please,unmute_sound,scheduled
+quiero abrir consola,open_terminal,immediate
+abre Excel,open_excel,immediate
+run backup at midnight,run_backup,scheduled
+raise the volume,volume_up,immediate
+apaga el computador when possible,shutdown_computer,immediate
+open command prompt please,open_terminal,immediate
+check mail in the morning please,check_email,scheduled
+update at 11 PM,update_system,scheduled
+detén la música más tarde,stop_music,scheduled
+screenshot now,take_screenshot,immediate
+update Windows,update_system,scheduled
+turn off computer,shutdown_computer,immediate
+run backup at midnight when possible,run_backup,scheduled
+quiero que abras Edge,open_browser,immediate
+turn up the volume,volume_up,immediate
+pon música a las 6 de la tarde ahora mismo,play_music,scheduled
+adjust brightness at night,adjust_brightness,scheduled
+run system update now,update_system,scheduled
+abre Firefox a las 8 PM,open_browser,scheduled
+update Windows when possible,update_system,scheduled
+run system update now,update_system,scheduled
+sube el volumen a las 10 PM,volume_up,scheduled
+update at 11 PM,update_system,scheduled
+bloquea el sistema más tarde,lock_screen,scheduled
+open Word document,open_word,immediate
+open command prompt,open_terminal,immediate
+check mail in the morning,check_email,scheduled
+cerrar la app,close_window,immediate
+pon música a las 6 de la tarde when possible,play_music,scheduled
+sube el volumen a las 10 PM,volume_up,scheduled
+turn up the volume when possible,volume_up,immediate
+schedule shutdown for tonight asap,shutdown_computer,scheduled
+bloquea el sistema más tarde,lock_screen,scheduled
+por favor cerrar esto después,close_window,scheduled
+detén la música un momento asap,pause_music,immediate
+silenciar todo ahora mismo,mute_sound,immediate
+apaga el computador,shutdown_computer,immediate
+close the active window,close_window,immediate
+desactiva el silencio when possible,unmute_sound,immediate
+open Word at 7 AM,open_word,scheduled
+run system update now,update_system,scheduled
+unmute at 9 AM,unmute_sound,scheduled
+baja el volumen por la noche please,volume_down,immediate
+pon música a las 6 de la tarde,play_music,scheduled
+pause the track,pause_music,immediate
+reduce el brillo,adjust_brightness,immediate
+quiero cerrar esto después,close_window,scheduled
+reduce el brillo,adjust_brightness,immediate
+apaga el computador,shutdown_computer,immediate
+open spreadsheet,open_excel,immediate
+por favor ver mis mensajes,check_email,immediate
+quiero cerrar esto después,close_window,scheduled
+stop all songs,stop_music,immediate
+turn the volume down,volume_down,immediate
+detén la música,stop_music,immediate
+restart computer when possible,restart_computer,immediate
+reboot system asap,restart_computer,immediate
+backup my data,run_backup,scheduled
+cierra la ventana,close_window,immediate
+close the active window,close_window,immediate
+launch Microsoft Word,open_word,immediate
+detén la música más tarde,stop_music,scheduled
+backup my data please,run_backup,scheduled
+quiero bloquear el PC,lock_screen,immediate
+sube el volumen,volume_up,immediate
+desactiva el silencio,unmute_sound,immediate
+me gustaría bloquear el PC,lock_screen,immediate
+launch browser now,open_browser,immediate
+update at 11 PM,update_system,scheduled
+open Word at 7 AM,open_word,scheduled
+launch Microsoft Word,open_word,immediate
+mute my PC,mute_sound,immediate
+detén la música más tarde,stop_music,scheduled
+sube el volumen a las 10 PM,volume_up,scheduled
+abre Excel mañana when possible,open_excel,scheduled
+open spreadsheet asap,open_excel,immediate
+open inbox now,check_email,immediate
+reinicia el PC,restart_computer,immediate
+restart at 3 AM,restart_computer,scheduled
+lower the volume,volume_down,immediate
+lock screen now,lock_screen,immediate
+detén la música,stop_music,immediate
+play some music asap,play_music,immediate
+run backup at midnight ahora mismo,run_backup,scheduled
+sube el volumen,volume_up,immediate
+sube el volumen,volume_up,immediate
+launch browser now,open_browser,immediate
+sube el volumen,volume_up,immediate
+check emails,check_email,immediate
+sube el volumen a las 10 PM,volume_up,scheduled
+update Windows ahora mismo,update_system,scheduled
+silencia el sonido,mute_sound,immediate
+bloquea el sistema más tarde ahora mismo,lock_screen,scheduled
+take a screenshot,take_screenshot,immediate
+abre Excel mañana,open_excel,scheduled
+check mail in the morning,check_email,scheduled
+open Word at 7 AM,open_word,scheduled
+adjust brightness at night,adjust_brightness,scheduled
+open Word at 7 AM,open_word,scheduled
+quiero bloquear el PC,lock_screen,immediate
+run backup at midnight when possible,run_backup,scheduled
+open command prompt,open_terminal,immediate
+sube el volumen,volume_up,immediate
+abre Firefox a las 8 PM,open_browser,scheduled
+lock my computer,lock_screen,immediate
+dim the screen,adjust_brightness,immediate
+shut down PC when possible,shutdown_computer,immediate
+open terminal at 10 AM,open_terminal,scheduled
+por favor que abras Edge,open_browser,immediate
+check mail in the morning,check_email,scheduled
+mute my PC ahora mismo,mute_sound,immediate
+launch Microsoft Word please,open_word,immediate
+open Word document,open_word,immediate
+reproduce mi playlist,play_music,immediate
+pause the track,pause_music,immediate
+turn up the volume please,volume_up,immediate
+open Chrome,open_browser,immediate
+sube el volumen,volume_up,immediate
+reduce el brillo,adjust_brightness,immediate
+dim the screen,adjust_brightness,immediate
+open Excel file now,open_excel,immediate
+set brightness to low now,adjust_brightness,immediate
+toma una captura,take_screenshot,immediate
+schedule shutdown for tonight,shutdown_computer,scheduled
+para la música ya,stop_music,immediate
+abre la terminal when possible,open_terminal,immediate
+reinicia el PC,restart_computer,immediate
+run backup at midnight,run_backup,scheduled
+close the active window,close_window,immediate
+stop playing music,stop_music,immediate
+quiero editar un archivo,open_word,immediate
+pausar la playlist en una hora,pause_music,immediate
+activa el sonido,unmute_sound,immediate
+mute the system tonight asap,mute_sound,scheduled
+pon música a las 6 de la tarde,play_music,scheduled
+abre la terminal,open_terminal,immediate
+unmute at 9 AM,unmute_sound,scheduled
+abre el navegador ahora mismo,open_browser,immediate
+unmute my PC,unmute_sound,immediate
+mute all,mute_sound,immediate
+detén la música un momento,pause_music,immediate
+play some music,play_music,immediate
+take screenshot at 9 AM,take_screenshot,scheduled
+detén la música más tarde,stop_music,scheduled
+quiero reiniciar ahora,restart_computer,immediate
+activa el sonido,unmute_sound,immediate
+run system update now,update_system,scheduled
+abre Excel,open_excel,immediate
+pon música a las 6 de la tarde,play_music,scheduled
+pausar la playlist en una hora,pause_music,immediate
+open inbox now,check_email,immediate
+backup my data asap,run_backup,scheduled
+pause my music,pause_music,immediate
+run backup at midnight asap,run_backup,scheduled
+pause the track when possible,pause_music,immediate
+turn the volume down ahora mismo,volume_down,immediate
+reduce el sonido asap,volume_down,immediate
+quiero abrir una hoja de cálculo,open_excel,immediate
+restart computer,restart_computer,immediate
+run system update now,update_system,scheduled
+abre Firefox a las 8 PM,open_browser,scheduled
+enable sound,unmute_sound,immediate
+abre Excel,open_excel,immediate
+run system backup,run_backup,immediate
+detén la música un momento,pause_music,immediate
+restart computer,restart_computer,immediate
+stop all songs,stop_music,immediate
+unmute at 9 AM,unmute_sound,scheduled
+toma una captura,take_screenshot,immediate
+haz que bloquear el PC,lock_screen,immediate
+me gustaría abrir consola,open_terminal,immediate
+check mail in the morning,check_email,scheduled
+unmute my PC asap,unmute_sound,immediate
+start backup now,run_backup,immediate
+quiero abrir una hoja de cálculo,open_excel,immediate
+unmute at 9 AM asap,unmute_sound,scheduled
+restart at 3 AM,restart_computer,scheduled
+unmute at 9 AM,unmute_sound,scheduled
+backup my data,run_backup,scheduled
+quiero reiniciar ahora,restart_computer,immediate
+run system update now please,update_system,scheduled
+turn up the volume,volume_up,immediate
+pause my music,pause_music,immediate
+silencia el sonido asap,mute_sound,immediate
+update Windows,update_system,scheduled
+open terminal at 10 AM,open_terminal,scheduled
+take screenshot at 9 AM,take_screenshot,scheduled
+open terminal at 10 AM,open_terminal,scheduled
+apaga el computador,shutdown_computer,immediate
+backup my data,run_backup,scheduled
+open Chrome please,open_browser,immediate
+restart at 3 AM,restart_computer,scheduled
+adjust brightness at night please,adjust_brightness,scheduled
+cerrar la app,close_window,immediate
+mute the system tonight ahora mismo,mute_sound,scheduled
+restart at 3 AM,restart_computer,scheduled
+restart at 3 AM,restart_computer,scheduled
+quiero cerrar esto después,close_window,scheduled
+open Word document,open_word,immediate
+take screenshot at 9 AM when possible,take_screenshot,scheduled
+open terminal at 10 AM,open_terminal,scheduled
+pause the track,pause_music,immediate
+quiero abrir consola,open_terminal,immediate
+quiero bloquear el PC,lock_screen,immediate
+mute my PC,mute_sound,immediate
+check emails,check_email,immediate
+check mail in the morning,check_email,scheduled
+reproduce mi playlist,play_music,immediate
+pon música a las 6 de la tarde,play_music,scheduled
+pausa la canción ahora mismo,pause_music,immediate
+lower the volume,volume_down,immediate
+unmute at 9 AM,unmute_sound,scheduled
+stop playing music,stop_music,immediate
+cierra la ventana please,close_window,immediate
+schedule shutdown for tonight,shutdown_computer,scheduled
+quiero apagar todo ya,shutdown_computer,immediate
+por favor cerrar esto después,close_window,scheduled
+quiero abrir consola,open_terminal,immediate
+silenciar todo,mute_sound,immediate
+close all windows,close_window,immediate
+lock my computer,lock_screen,immediate
+turn up the volume,volume_up,immediate
+pausa la canción,pause_music,immediate
+bloquea el sistema más tarde ahora mismo,lock_screen,scheduled
+quiero abrir consola,open_terminal,immediate
+actualiza el sistema,update_system,immediate
+quiero cerrar esto después asap,close_window,scheduled
+bloquea el sistema más tarde,lock_screen,scheduled
+open inbox now,check_email,immediate
+puedes cerrar esto después,close_window,scheduled
+open inbox now,check_email,immediate
+abre Excel mañana,open_excel,scheduled
+haz que apagar todo ya,shutdown_computer,immediate
+reproduce mi playlist,play_music,immediate
+apaga el computador please,shutdown_computer,immediate
+run system update now,update_system,scheduled
+apaga el computador,shutdown_computer,immediate
+mute my PC,mute_sound,immediate
+take screenshot at 9 AM,take_screenshot,scheduled
+open terminal at 10 AM,open_terminal,scheduled
+abre Firefox a las 8 PM,open_browser,scheduled
+turn the volume down,volume_down,immediate
+adjust brightness at night,adjust_brightness,scheduled
+abre Excel mañana,open_excel,scheduled
+run system backup,run_backup,immediate
+bloquea el sistema más tarde ahora mismo,lock_screen,scheduled
+reduce el sonido asap,volume_down,immediate
+open command prompt asap,open_terminal,immediate
+ajusta el brillo,adjust_brightness,immediate
+aumenta el sonido ahora,volume_up,immediate
+abre Firefox a las 8 PM,open_browser,scheduled
+ajusta el brillo asap,adjust_brightness,immediate
+pausar la playlist en una hora,pause_music,immediate
+pause my music when possible,pause_music,immediate
+launch terminal now,open_terminal,immediate
+unmute my PC,unmute_sound,immediate
+por favor que abras Edge,open_browser,immediate
+detén la música más tarde,stop_music,scheduled
+quiero reiniciar ahora,restart_computer,immediate
+revisa mi correo,check_email,immediate
+detén la música más tarde,stop_music,scheduled
+pausa la canción,pause_music,immediate
+sube el volumen a las 10 PM,volume_up,scheduled
+quiero reiniciar ahora,restart_computer,immediate
+abre el navegador,open_browser,immediate
+open command prompt,open_terminal,immediate
+update at 11 PM,update_system,scheduled
+reduce el sonido,volume_down,immediate
+restart computer,restart_computer,immediate
+actualiza el sistema,update_system,immediate
+stop playing music,stop_music,immediate
+check mail in the morning ahora mismo,check_email,scheduled
+screenshot now,take_screenshot,immediate
+detén la música más tarde,stop_music,scheduled
+run backup at midnight,run_backup,scheduled
+run system backup,run_backup,immediate
+backup my data,run_backup,scheduled
+stop playing music,stop_music,immediate
+turn the volume down,volume_down,immediate
+apaga el computador,shutdown_computer,immediate
+start backup now,run_backup,immediate
+check mail in the morning,check_email,scheduled
+turn up the volume,volume_up,immediate
+schedule shutdown for tonight,shutdown_computer,scheduled
+start backup now,run_backup,immediate
+adjust brightness at night,adjust_brightness,scheduled
+me gustaría escuchar algo ahora,play_music,immediate
+actualiza el sistema,update_system,immediate
+shut down PC asap,shutdown_computer,immediate
+quiero que abras Edge,open_browser,immediate
+silencia el sonido,mute_sound,immediate
+sube el volumen,volume_up,immediate
+open terminal at 10 AM ahora mismo,open_terminal,scheduled
+mute the system tonight,mute_sound,scheduled
+schedule shutdown for tonight ahora mismo,shutdown_computer,scheduled
+take a screenshot,take_screenshot,immediate
+screenshot now,take_screenshot,immediate
+close the active window,close_window,immediate
+check mail in the morning,check_email,scheduled
+detén la música más tarde,stop_music,scheduled
+shut down PC,shutdown_computer,immediate
+unmute my PC,unmute_sound,immediate
+abre Word,open_word,immediate
+sube el volumen a las 10 PM when possible,volume_up,scheduled
+adjust brightness at night when possible,adjust_brightness,scheduled
+haz que reiniciar ahora please,restart_computer,immediate
+quiero editar un archivo,open_word,immediate
+run system update now,update_system,scheduled
+ajusta el brillo please,adjust_brightness,immediate
+sube el volumen a las 10 PM,volume_up,scheduled
+run backup at midnight,run_backup,scheduled
+pon música,play_music,immediate
+quiero editar un archivo,open_word,immediate
+abre Excel,open_excel,immediate
+abre Excel mañana,open_excel,scheduled
+abre Word,open_word,immediate
+ajusta el brillo,adjust_brightness,immediate
+ajusta el brillo ahora mismo,adjust_brightness,immediate
+por favor apagar todo ya,shutdown_computer,immediate
+close all windows,close_window,immediate
+open terminal at 10 AM,open_terminal,scheduled
+reboot system asap,restart_computer,immediate
+stop all songs asap,stop_music,immediate
+desactiva el silencio,unmute_sound,immediate
+quiero cerrar esto después when possible,close_window,scheduled
+cerrar la app,close_window,immediate
+bloquea la pantalla,lock_screen,immediate
+haz que reiniciar ahora,restart_computer,immediate
+launch browser now when possible,open_browser,immediate
+turn off computer,shutdown_computer,immediate
+open Word document,open_word,immediate
+pausar la playlist en una hora,pause_music,immediate
+mute my PC,mute_sound,immediate
+unmute at 9 AM,unmute_sound,scheduled
+turn the volume down,volume_down,immediate
+open Word document,open_word,immediate
+mute my PC,mute_sound,immediate
+shut down PC,shutdown_computer,immediate
+para la música ya,stop_music,immediate
+shut down PC,shutdown_computer,immediate
+abre Excel mañana,open_excel,scheduled
+bloquea el sistema más tarde please,lock_screen,scheduled
+aumenta el sonido ahora please,volume_up,immediate
+pon música a las 6 de la tarde asap,play_music,scheduled
+unmute at 9 AM,unmute_sound,scheduled
+abre Excel mañana,open_excel,scheduled
+unmute my PC asap,unmute_sound,immediate
+backup my data,run_backup,scheduled
+cierra la ventana,close_window,immediate
+reproduce mi playlist,play_music,immediate
+por favor apagar todo ya,shutdown_computer,immediate
+quiero abrir consola when possible,open_terminal,immediate
+detén la música un momento,pause_music,immediate
+quiero reiniciar ahora,restart_computer,immediate
+detén la música,stop_music,immediate
+lock screen now when possible,lock_screen,immediate
+haz una actualización,update_system,immediate
+actualiza el sistema,update_system,immediate
+close the active window,close_window,immediate
+set brightness to low now,adjust_brightness,immediate
+mute all,mute_sound,immediate
+quiero editar un archivo,open_word,immediate
+close the active window,close_window,immediate
+turn up the volume,volume_up,immediate
+baja el volumen por la noche,volume_down,immediate
+baja el volumen asap,volume_down,immediate
+screenshot now,take_screenshot,immediate
+mute the system tonight,mute_sound,scheduled
+reproduce mi playlist,play_music,immediate
+restart at 3 AM,restart_computer,scheduled
+sube el volumen a las 10 PM,volume_up,scheduled
+quiero editar un archivo please,open_word,immediate
+quiero reiniciar ahora,restart_computer,immediate
+update Windows,update_system,scheduled
+adjust brightness at night,adjust_brightness,scheduled
+unmute at 9 AM,unmute_sound,scheduled
+open terminal at 10 AM,open_terminal,scheduled
+quiero abrir consola,open_terminal,immediate
+unmute at 9 AM,unmute_sound,scheduled
+pon música a las 6 de la tarde,play_music,scheduled
+revisa mi correo asap,check_email,immediate
+pause the track,pause_music,immediate
+quiero apagar todo ya,shutdown_computer,immediate
+play some music ahora mismo,play_music,immediate
+quiero abrir una hoja de cálculo,open_excel,immediate
+mute the system tonight please,mute_sound,scheduled
+haz un respaldo,run_backup,immediate
+open inbox now,check_email,immediate
+abre Firefox a las 8 PM,open_browser,scheduled
+sube el volumen a las 10 PM,volume_up,scheduled
+open Chrome,open_browser,immediate
+open terminal at 10 AM,open_terminal,scheduled
+screenshot now,take_screenshot,immediate
+actualiza el sistema,update_system,immediate
+adjust brightness at night,adjust_brightness,scheduled
+stop playing music,stop_music,immediate
+open spreadsheet,open_excel,immediate
+reduce el sonido,volume_down,immediate
+silenciar todo when possible,mute_sound,immediate
+take a screenshot,take_screenshot,immediate
+stop all songs,stop_music,immediate
+schedule shutdown for tonight,shutdown_computer,scheduled
+quiero bloquear el PC asap,lock_screen,immediate
+schedule shutdown for tonight,shutdown_computer,scheduled
+unmute at 9 AM,unmute_sound,scheduled
+bloquea la pantalla,lock_screen,immediate
+abre el navegador,open_browser,immediate
+silencia el sonido asap,mute_sound,immediate
+backup my data,run_backup,scheduled
+run system update now,update_system,scheduled
+abre Excel mañana,open_excel,scheduled
+puedes reiniciar ahora,restart_computer,immediate
+detén la música más tarde,stop_music,scheduled
+turn the volume down please,volume_down,immediate
+apaga el computador,shutdown_computer,immediate
+baja el volumen,volume_down,immediate
+launch terminal now asap,open_terminal,immediate
+revisa mi correo,check_email,immediate
+abre la terminal,open_terminal,immediate
+sube el volumen a las 10 PM asap,volume_up,scheduled
+bloquea la pantalla,lock_screen,immediate
+enable sound when possible,unmute_sound,immediate
+stop all songs,stop_music,immediate
+open inbox now,check_email,immediate
+silenciar todo asap,mute_sound,immediate
+apaga el computador,shutdown_computer,immediate
+take a screenshot,take_screenshot,immediate
+lock my computer,lock_screen,immediate
+por favor apagar todo ya,shutdown_computer,immediate
+take screenshot at 9 AM,take_screenshot,scheduled
+stop all songs,stop_music,immediate
+check mail in the morning,check_email,scheduled
+haz que abrir una hoja de cálculo,open_excel,immediate
+pausar la playlist en una hora ahora mismo,pause_music,immediate
+revisa mi correo,check_email,immediate
+puedes que abras Edge ahora mismo,open_browser,immediate
+quiero bloquear el PC,lock_screen,immediate
+revisa mi correo,check_email,immediate
+enable sound,unmute_sound,immediate
+detén la música más tarde,stop_music,scheduled
+screenshot now when possible,take_screenshot,immediate
+quiero cerrar esto después,close_window,scheduled
+abre Firefox a las 8 PM,open_browser,scheduled
+abre la terminal please,open_terminal,immediate
+open Word at 7 AM,open_word,scheduled
+quiero cerrar esto después,close_window,scheduled
+take a screenshot,take_screenshot,immediate
+haz una actualización,update_system,immediate
+raise the volume please,volume_up,immediate
+pause my music,pause_music,immediate
+update at 11 PM,update_system,scheduled
+open Chrome,open_browser,immediate
+quiero cerrar esto después,close_window,scheduled
+haz una actualización,update_system,immediate
+take screenshot at 9 AM,take_screenshot,scheduled
+pause the track please,pause_music,immediate
+revisa mi correo,check_email,immediate
+unmute at 9 AM when possible,unmute_sound,scheduled
+quiero que abras Edge,open_browser,immediate
+update at 11 PM,update_system,scheduled
+check emails,check_email,immediate
+pause the track,pause_music,immediate
+mute my PC,mute_sound,immediate
+pausar la playlist en una hora,pause_music,immediate
+abre Word,open_word,immediate
+silenciar todo asap,mute_sound,immediate
+open inbox now,check_email,immediate
+detén la música un momento,pause_music,immediate
+stop playing music,stop_music,immediate
+haz una actualización,update_system,immediate
+restart at 3 AM ahora mismo,restart_computer,scheduled
+unmute my PC,unmute_sound,immediate
+start backup now,run_backup,immediate
+run system update now,update_system,scheduled
+raise the volume,volume_up,immediate
+abre Excel,open_excel,immediate
+cerrar la app,close_window,immediate
+para la música ya,stop_music,immediate
+detén la música,stop_music,immediate
+quiero que abras Edge,open_browser,immediate
+dim the screen,adjust_brightness,immediate
+check mail in the morning,check_email,scheduled
+abre Firefox a las 8 PM when possible,open_browser,scheduled
+launch terminal now,open_terminal,immediate
+ajusta el brillo please,adjust_brightness,immediate
+set brightness to low now ahora mismo,adjust_brightness,immediate
+activa el sonido asap,unmute_sound,immediate
+para la música ya,stop_music,immediate
+pausar la playlist en una hora,pause_music,immediate
+take a screenshot when possible,take_screenshot,immediate
+backup my data,run_backup,scheduled
+cerrar la app ahora mismo,close_window,immediate
+open Word document,open_word,immediate
+dim the screen,adjust_brightness,immediate
+reduce el sonido asap,volume_down,immediate
+screenshot now,take_screenshot,immediate
+sube el volumen a las 10 PM please,volume_up,scheduled
+pausar la playlist en una hora,pause_music,immediate
+shut down PC when possible,shutdown_computer,immediate
+turn up the volume,volume_up,immediate
+open terminal at 10 AM,open_terminal,scheduled
+quiero editar un archivo,open_word,immediate
+launch terminal now,open_terminal,immediate
+cierra la ventana,close_window,immediate
+revisa mi correo asap,check_email,immediate
+restart at 3 AM,restart_computer,scheduled
+run system update now asap,update_system,scheduled
+detén la música más tarde,stop_music,scheduled
+close all windows,close_window,immediate
+ajusta el brillo ahora mismo,adjust_brightness,immediate
+silenciar todo,mute_sound,immediate
+activa el sonido,unmute_sound,immediate
+take screenshot at 9 AM,take_screenshot,scheduled
+open spreadsheet when possible,open_excel,immediate
+baja el volumen por la noche,volume_down,immediate
+reduce el brillo,adjust_brightness,immediate
+close the active window,close_window,immediate
+turn up the volume,volume_up,immediate
+run system backup,run_backup,immediate
+open Word document,open_word,immediate
+reproduce mi playlist please,play_music,immediate
+reboot system,restart_computer,immediate
+turn off computer,shutdown_computer,immediate
+launch browser now please,open_browser,immediate
+take screenshot at 9 AM,take_screenshot,scheduled
+bloquea el sistema más tarde,lock_screen,scheduled
+run system update now,update_system,scheduled
+apaga el computador,shutdown_computer,immediate
+silenciar todo,mute_sound,immediate
+open inbox now,check_email,immediate
+abre Excel mañana,open_excel,scheduled
+take screenshot at 9 AM ahora mismo,take_screenshot,scheduled
+haz una captura de pantalla,take_screenshot,immediate
+detén la música,stop_music,immediate
+restart at 3 AM,restart_computer,scheduled
+abre Word,open_word,immediate
+pause the track,pause_music,immediate
+abre Excel mañana,open_excel,scheduled
+play some music,play_music,immediate
+activa el sonido asap,unmute_sound,immediate
+apaga el computador,shutdown_computer,immediate
+mute all,mute_sound,immediate
+stop playing music,stop_music,immediate
+revisa mi correo,check_email,immediate
+launch Microsoft Word ahora mismo,open_word,immediate
+detén la música un momento,pause_music,immediate
+abre Excel mañana,open_excel,scheduled
+start backup now,run_backup,immediate
+open command prompt,open_terminal,immediate
+adjust brightness at night,adjust_brightness,scheduled
+haz que escuchar algo ahora,play_music,immediate
+reproduce mi playlist,play_music,immediate
+silenciar todo,mute_sound,immediate
+quiero editar un archivo,open_word,immediate
+run system update now,update_system,scheduled
+adjust brightness at night,adjust_brightness,scheduled
+haz un respaldo when possible,run_backup,immediate
+close the active window,close_window,immediate
+open inbox now,check_email,immediate
+open Excel file now,open_excel,immediate
+enable sound,unmute_sound,immediate
+check mail in the morning,check_email,scheduled
+check mail in the morning,check_email,scheduled
+take screenshot at 9 AM,take_screenshot,scheduled
+backup my data,run_backup,scheduled
+open inbox now,check_email,immediate
+sube el volumen a las 10 PM when possible,volume_up,scheduled
+haz un respaldo ahora mismo,run_backup,immediate
+open Chrome please,open_browser,immediate
+reduce el sonido,volume_down,immediate
+open Word document ahora mismo,open_word,immediate
+quiero que abras Edge,open_browser,immediate
+apaga el computador,shutdown_computer,immediate
+detén la música un momento,pause_music,immediate
+pausa la canción,pause_music,immediate
+sube el volumen a las 10 PM,volume_up,scheduled
+silencia el sonido,mute_sound,immediate
+abre Excel mañana,open_excel,scheduled
+toma una captura,take_screenshot,immediate
+mute the system tonight,mute_sound,scheduled
+stop playing music ahora mismo,stop_music,immediate
+run system backup,run_backup,immediate
+abre Word,open_word,immediate
+shut down PC,shutdown_computer,immediate
+haz una actualización please,update_system,immediate
+restart at 3 AM,restart_computer,scheduled
+close the active window when possible,close_window,immediate
+cerrar la app,close_window,immediate
+screenshot now asap,take_screenshot,immediate
+stop playing music,stop_music,immediate
+sube el volumen,volume_up,immediate
+detén la música,stop_music,immediate
+set brightness to low now,adjust_brightness,immediate
+lock screen now,lock_screen,immediate
+pause my music,pause_music,immediate
+reproduce mi playlist,play_music,immediate
+aumenta el sonido ahora,volume_up,immediate
+take screenshot at 9 AM,take_screenshot,scheduled
+haz una actualización,update_system,immediate
+open Word document,open_word,immediate
+por favor apagar todo ya,shutdown_computer,immediate
+baja el volumen,volume_down,immediate
+take screenshot at 9 AM,take_screenshot,scheduled
+raise the volume,volume_up,immediate
+silenciar todo,mute_sound,immediate
+quiero abrir consola,open_terminal,immediate
+update at 11 PM,update_system,scheduled
+me gustaría apagar todo ya,shutdown_computer,immediate
+enable sound,unmute_sound,immediate
+abre Excel please,open_excel,immediate
+quiero escuchar algo ahora,play_music,immediate
+abre Firefox a las 8 PM please,open_browser,scheduled
+backup my data ahora mismo,run_backup,scheduled
+bloquea la pantalla,lock_screen,immediate
+revisa mi correo,check_email,immediate
+silencia el sonido,mute_sound,immediate
+set brightness to low now,adjust_brightness,immediate
+screenshot now,take_screenshot,immediate
+baja el volumen por la noche asap,volume_down,immediate
+pause my music,pause_music,immediate
+detén la música,stop_music,immediate
+haz una captura de pantalla,take_screenshot,immediate
+adjust brightness at night,adjust_brightness,scheduled
+pon música a las 6 de la tarde asap,play_music,scheduled
+haz una captura de pantalla,take_screenshot,immediate
+detén la música más tarde,stop_music,scheduled
+lock my computer ahora mismo,lock_screen,immediate
+detén la música,stop_music,immediate
+mute my PC ahora mismo,mute_sound,immediate
+abre Excel asap,open_excel,immediate
+open terminal at 10 AM,open_terminal,scheduled
+sube el volumen a las 10 PM asap,volume_up,scheduled
+launch terminal now,open_terminal,immediate
+bloquea el sistema más tarde,lock_screen,scheduled
+take screenshot at 9 AM,take_screenshot,scheduled
+restart at 3 AM,restart_computer,scheduled
+silenciar todo,mute_sound,immediate
+raise the volume,volume_up,immediate
+sube el volumen,volume_up,immediate
+check mail in the morning,check_email,scheduled
+ajusta el brillo,adjust_brightness,immediate
+play some music,play_music,immediate
+adjust brightness at night,adjust_brightness,scheduled
+launch terminal now,open_terminal,immediate
+bloquea el sistema más tarde,lock_screen,scheduled
+update Windows ahora mismo,update_system,scheduled
+ajusta el brillo,adjust_brightness,immediate
+enable sound,unmute_sound,immediate
+quiero que abras Edge,open_browser,immediate
+revisa mi correo,check_email,immediate
+unmute my PC,unmute_sound,immediate
+silenciar todo,mute_sound,immediate
+revisa mi correo,check_email,immediate
+schedule shutdown for tonight when possible,shutdown_computer,scheduled
+screenshot now,take_screenshot,immediate
+launch Microsoft Word,open_word,immediate
+desactiva el silencio,unmute_sound,immediate
+pon música a las 6 de la tarde,play_music,scheduled
+run system update now,update_system,scheduled
+check emails,check_email,immediate
+revisa mi correo,check_email,immediate
+detén la música un momento,pause_music,immediate
+abre Excel mañana ahora mismo,open_excel,scheduled
+para la música ya,stop_music,immediate
+activa el sonido,unmute_sound,immediate
+restart at 3 AM asap,restart_computer,scheduled
+abre el navegador asap,open_browser,immediate
+reduce el brillo,adjust_brightness,immediate
+abre Excel,open_excel,immediate
+mute the system tonight when possible,mute_sound,scheduled
+bloquea la pantalla,lock_screen,immediate
+open Word at 7 AM please,open_word,scheduled
+abre la terminal,open_terminal,immediate
+abre Excel mañana,open_excel,scheduled
+haz una captura de pantalla,take_screenshot,immediate
+ajusta el brillo,adjust_brightness,immediate
+adjust brightness at night,adjust_brightness,scheduled
+mute my PC,mute_sound,immediate
+bloquea el sistema más tarde,lock_screen,scheduled
+detén la música más tarde ahora mismo,stop_music,scheduled
+open spreadsheet,open_excel,immediate
+stop playing music,stop_music,immediate
+reinicia el PC,restart_computer,immediate
+launch Microsoft Word,open_word,immediate
+unmute at 9 AM,unmute_sound,scheduled
+detén la música un momento,pause_music,immediate
+haz un respaldo,run_backup,immediate
+schedule shutdown for tonight please,shutdown_computer,scheduled
+pause my music,pause_music,immediate
+take a screenshot ahora mismo,take_screenshot,immediate
+open terminal at 10 AM,open_terminal,scheduled
+reduce el brillo,adjust_brightness,immediate
+mute all,mute_sound,immediate
+check mail in the morning ahora mismo,check_email,scheduled
+sube el volumen a las 10 PM,volume_up,scheduled
+open Word document ahora mismo,open_word,immediate
+enable sound,unmute_sound,immediate
+sube el volumen a las 10 PM,volume_up,scheduled
+haz un respaldo asap,run_backup,immediate
+bloquea el sistema más tarde,lock_screen,scheduled
+abre Firefox a las 8 PM,open_browser,scheduled
+update Windows,update_system,scheduled
+actualiza el sistema please,update_system,immediate
+enable sound,unmute_sound,immediate
+check mail in the morning please,check_email,scheduled
+turn off computer,shutdown_computer,immediate
+turn up the volume please,volume_up,immediate
+quiero editar un archivo,open_word,immediate
+launch terminal now,open_terminal,immediate
+mute all,mute_sound,immediate
+silencia el sonido,mute_sound,immediate
+open terminal at 10 AM,open_terminal,scheduled
+quiero cerrar esto después when possible,close_window,scheduled
+actualiza el sistema,update_system,immediate
+open Chrome,open_browser,immediate
+abre Excel mañana ahora mismo,open_excel,scheduled
+restart at 3 AM asap,restart_computer,scheduled
+reproduce mi playlist,play_music,immediate
+bloquea el sistema más tarde,lock_screen,scheduled
+quiero reiniciar ahora,restart_computer,immediate
+pause the track when possible,pause_music,immediate
+turn off computer,shutdown_computer,immediate
+abre Firefox a las 8 PM,open_browser,scheduled
+sube el volumen a las 10 PM please,volume_up,scheduled
+open inbox now,check_email,immediate
+haz un respaldo,run_backup,immediate
+close the active window,close_window,immediate
+pausa la canción,pause_music,immediate
+unmute my PC,unmute_sound,immediate
+aumenta el sonido ahora,volume_up,immediate
+restart computer,restart_computer,immediate
+lock screen now ahora mismo,lock_screen,immediate
+abre Word,open_word,immediate
+open inbox now,check_email,immediate
+turn the volume down when possible,volume_down,immediate
+open Word at 7 AM,open_word,scheduled
+open terminal at 10 AM,open_terminal,scheduled
+haz un respaldo,run_backup,immediate
+take screenshot at 9 AM,take_screenshot,scheduled
+open command prompt,open_terminal,immediate
+turn the volume down,volume_down,immediate
+mute the system tonight,mute_sound,scheduled
+ajusta el brillo,adjust_brightness,immediate
+pausa la canción,pause_music,immediate
+detén la música más tarde,stop_music,scheduled
+launch Microsoft Word,open_word,immediate
+revisa mi correo asap,check_email,immediate
+close the active window,close_window,immediate
+para la música ya,stop_music,immediate
+open terminal at 10 AM,open_terminal,scheduled
+update at 11 PM,update_system,scheduled
+schedule shutdown for tonight,shutdown_computer,scheduled
+update at 11 PM,update_system,scheduled
+mute all,mute_sound,immediate
+detén la música más tarde,stop_music,scheduled
+schedule shutdown for tonight,shutdown_computer,scheduled
+bloquea el sistema más tarde,lock_screen,scheduled
+silenciar todo,mute_sound,immediate
+stop all songs asap,stop_music,immediate
+lock screen now ahora mismo,lock_screen,immediate
+mute my PC,mute_sound,immediate
+open inbox now,check_email,immediate
+haz que cerrar esto después when possible,close_window,scheduled
+quiero apagar todo ya,shutdown_computer,immediate
+quiero editar un archivo,open_word,immediate
+sube el volumen,volume_up,immediate
+close the active window when possible,close_window,immediate
+quiero abrir una hoja de cálculo,open_excel,immediate
+check mail in the morning,check_email,scheduled
+update at 11 PM,update_system,scheduled
+restart at 3 AM,restart_computer,scheduled
+open Excel file now,open_excel,immediate
+mute the system tonight,mute_sound,scheduled
+quiero bloquear el PC,lock_screen,immediate
+baja el volumen,volume_down,immediate
+quiero abrir consola please,open_terminal,immediate
+check mail in the morning asap,check_email,scheduled
+silencia el sonido asap,mute_sound,immediate
+quiero escuchar algo ahora asap,play_music,immediate
+abre el navegador,open_browser,immediate
+pon música a las 6 de la tarde,play_music,scheduled
+sube el volumen a las 10 PM,volume_up,scheduled
+sube el volumen a las 10 PM,volume_up,scheduled
+abre Firefox a las 8 PM,open_browser,scheduled
+run system backup,run_backup,immediate
+backup my data,run_backup,scheduled
+close all windows,close_window,immediate
+pause the track,pause_music,immediate
+silenciar todo when possible,mute_sound,immediate
+close the active window,close_window,immediate
+start backup now,run_backup,immediate
+run backup at midnight,run_backup,scheduled
+schedule shutdown for tonight,shutdown_computer,scheduled
+reduce el brillo when possible,adjust_brightness,immediate
+reproduce mi playlist,play_music,immediate
+launch terminal now,open_terminal,immediate
+adjust brightness at night,adjust_brightness,scheduled
+bloquea el sistema más tarde,lock_screen,scheduled
+stop all songs ahora mismo,stop_music,immediate
+screenshot now,take_screenshot,immediate
+quiero que abras Edge,open_browser,immediate
+quiero bloquear el PC asap,lock_screen,immediate
+quiero apagar todo ya,shutdown_computer,immediate
+quiero abrir consola,open_terminal,immediate
+baja el volumen,volume_down,immediate
+pausar la playlist en una hora,pause_music,immediate
+open command prompt,open_terminal,immediate
+bloquea el sistema más tarde,lock_screen,scheduled
+open spreadsheet,open_excel,immediate
+detén la música un momento,pause_music,immediate
+take screenshot at 9 AM,take_screenshot,scheduled
+actualiza el sistema,update_system,immediate
+close all windows please,close_window,immediate
+toma una captura asap,take_screenshot,immediate
+quiero reiniciar ahora,restart_computer,immediate
+bloquea el sistema más tarde,lock_screen,scheduled
+update at 11 PM,update_system,scheduled
+open Excel file now please,open_excel,immediate
+screenshot now,take_screenshot,immediate
+update at 11 PM when possible,update_system,scheduled
+quiero editar un archivo,open_word,immediate
+set brightness to low now,adjust_brightness,immediate
+para la música ya ahora mismo,stop_music,immediate
+quiero apagar todo ya,shutdown_computer,immediate
+play some music,play_music,immediate
+desactiva el silencio,unmute_sound,immediate
+update Windows,update_system,scheduled
+backup my data,run_backup,scheduled
+open terminal at 10 AM asap,open_terminal,scheduled
+baja el volumen,volume_down,immediate
+para la música ya,stop_music,immediate
+aumenta el sonido ahora,volume_up,immediate
+abre Excel mañana,open_excel,scheduled
+take screenshot at 9 AM ahora mismo,take_screenshot,scheduled
+launch terminal now,open_terminal,immediate
+launch browser now,open_browser,immediate
+quiero bloquear el PC ahora mismo,lock_screen,immediate
+silenciar todo,mute_sound,immediate
+reboot system,restart_computer,immediate
+abre el navegador ahora mismo,open_browser,immediate
+reinicia el PC,restart_computer,immediate
+haz una actualización,update_system,immediate
+quiero cerrar esto después,close_window,scheduled
+check mail in the morning ahora mismo,check_email,scheduled
+sube el volumen a las 10 PM when possible,volume_up,scheduled
+reproduce mi playlist,play_music,immediate
+start backup now please,run_backup,immediate
+baja el volumen por la noche,volume_down,immediate
+set brightness to low now please,adjust_brightness,immediate
+pon música a las 6 de la tarde,play_music,scheduled
+unmute at 9 AM,unmute_sound,scheduled
+pon música a las 6 de la tarde,play_music,scheduled
+reduce el sonido ahora mismo,volume_down,immediate
+revisa mi correo,check_email,immediate
+open Chrome,open_browser,immediate
+abre la terminal,open_terminal,immediate
+silenciar todo asap,mute_sound,immediate
+detén la música un momento,pause_music,immediate
+restart at 3 AM,restart_computer,scheduled
+stop all songs,stop_music,immediate
+abre la terminal,open_terminal,immediate
+abre Excel,open_excel,immediate
+shut down PC,shutdown_computer,immediate
+sube el volumen a las 10 PM when possible,volume_up,scheduled
+quiero reiniciar ahora,restart_computer,immediate
+abre la terminal please,open_terminal,immediate
+abre Excel mañana,open_excel,scheduled
+shut down PC asap,shutdown_computer,immediate
+mute the system tonight,mute_sound,scheduled
+pon música a las 6 de la tarde,play_music,scheduled
+mute my PC,mute_sound,immediate
+run system backup,run_backup,immediate
+run system backup,run_backup,immediate
+run system update now,update_system,scheduled
+take screenshot at 9 AM,take_screenshot,scheduled
+open command prompt,open_terminal,immediate
+detén la música más tarde,stop_music,scheduled
+run system backup,run_backup,immediate
+quiero editar un archivo,open_word,immediate
+reduce el brillo,adjust_brightness,immediate
+quiero apagar todo ya,shutdown_computer,immediate
+restart at 3 AM,restart_computer,scheduled
+quiero ver mis mensajes,check_email,immediate
+open terminal at 10 AM,open_terminal,scheduled
+unmute my PC,unmute_sound,immediate
+start backup now,run_backup,immediate
+play some music,play_music,immediate
+mute the system tonight,mute_sound,scheduled
+check emails,check_email,immediate
+activa el sonido,unmute_sound,immediate
+take screenshot at 9 AM,take_screenshot,scheduled
+start backup now,run_backup,immediate
+schedule shutdown for tonight,shutdown_computer,scheduled
+check mail in the morning when possible,check_email,scheduled
+play some music,play_music,immediate
+raise the volume when possible,volume_up,immediate
+open terminal at 10 AM,open_terminal,scheduled
+lock screen now,lock_screen,immediate
+pausar la playlist en una hora,pause_music,immediate
+quiero abrir consola,open_terminal,immediate
+lower the volume,volume_down,immediate
+adjust brightness at night,adjust_brightness,scheduled
+puedes abrir una hoja de cálculo,open_excel,immediate
+activa el sonido,unmute_sound,immediate
+adjust brightness at night,adjust_brightness,scheduled
+launch Microsoft Word,open_word,immediate
+lock my computer,lock_screen,immediate
+launch browser now,open_browser,immediate
+close the active window,close_window,immediate
+detén la música,stop_music,immediate
+ajusta el brillo asap,adjust_brightness,immediate
+mute my PC,mute_sound,immediate
+mute the system tonight asap,mute_sound,scheduled
+run system update now,update_system,scheduled
+check emails when possible,check_email,immediate
+update at 11 PM when possible,update_system,scheduled
+check mail in the morning,check_email,scheduled
+mute the system tonight,mute_sound,scheduled
+lock my computer ahora mismo,lock_screen,immediate
+mute the system tonight,mute_sound,scheduled
+quiero abrir una hoja de cálculo,open_excel,immediate
+cerrar la app,close_window,immediate
+revisa mi correo,check_email,immediate
+adjust brightness at night,adjust_brightness,scheduled
+ajusta el brillo,adjust_brightness,immediate
+ajusta el brillo asap,adjust_brightness,immediate
+run system update now,update_system,scheduled
+run system update now,update_system,scheduled
+detén la música,stop_music,immediate
+silencia el sonido,mute_sound,immediate
+run backup at midnight,run_backup,scheduled
+puedes cerrar esto después,close_window,scheduled
+mute my PC,mute_sound,immediate
+quiero ver mis mensajes please,check_email,immediate
+enable sound,unmute_sound,immediate
+turn up the volume,volume_up,immediate
+sube el volumen a las 10 PM,volume_up,scheduled
+adjust brightness at night,adjust_brightness,scheduled
+abre Firefox a las 8 PM please,open_browser,scheduled
+run system backup,run_backup,immediate
+apaga el computador,shutdown_computer,immediate
+restart at 3 AM,restart_computer,scheduled
+lock my computer please,lock_screen,immediate
+pause the track ahora mismo,pause_music,immediate
+enable sound,unmute_sound,immediate
+adjust brightness at night,adjust_brightness,scheduled
+schedule shutdown for tonight ahora mismo,shutdown_computer,scheduled
+close the active window,close_window,immediate
+update at 11 PM,update_system,scheduled
+run system backup,run_backup,immediate
+pause my music,pause_music,immediate
+sube el volumen,volume_up,immediate
+update at 11 PM please,update_system,scheduled
+open spreadsheet asap,open_excel,immediate
+open terminal at 10 AM ahora mismo,open_terminal,scheduled
+baja el volumen por la noche asap,volume_down,immediate
+check mail in the morning,check_email,scheduled
+bloquea el sistema más tarde,lock_screen,scheduled
+stop playing music,stop_music,immediate
+haz una captura de pantalla,take_screenshot,immediate
+detén la música un momento,pause_music,immediate
+shut down PC,shutdown_computer,immediate
+take screenshot at 9 AM asap,take_screenshot,scheduled
+open terminal at 10 AM,open_terminal,scheduled
+close the active window,close_window,immediate
+launch Microsoft Word,open_word,immediate
+backup my data,run_backup,scheduled
+set brightness to low now,adjust_brightness,immediate
+run system backup asap,run_backup,immediate
+reduce el brillo,adjust_brightness,immediate
+update Windows,update_system,scheduled
+mute the system tonight,mute_sound,scheduled
+quiero abrir consola,open_terminal,immediate
+open spreadsheet,open_excel,immediate
+abre el navegador,open_browser,immediate
+haz un respaldo asap,run_backup,immediate
+start backup now,run_backup,immediate
+activa el sonido,unmute_sound,immediate
+stop all songs please,stop_music,immediate
+lock my computer please,lock_screen,immediate
+silencia el sonido,mute_sound,immediate
+open Word document,open_word,immediate
+mute all,mute_sound,immediate
+launch browser now,open_browser,immediate
+abre Firefox a las 8 PM,open_browser,scheduled
+take screenshot at 9 AM,take_screenshot,scheduled
+mute all,mute_sound,immediate
+desactiva el silencio,unmute_sound,immediate
+check mail in the morning ahora mismo,check_email,scheduled
+sube el volumen,volume_up,immediate
+haz que cerrar esto después,close_window,scheduled
+ajusta el brillo,adjust_brightness,immediate
+backup my data,run_backup,scheduled
+actualiza el sistema,update_system,immediate
+play some music,play_music,immediate
+open terminal at 10 AM when possible,open_terminal,scheduled
+detén la música un momento,pause_music,immediate
+pon música a las 6 de la tarde,play_music,scheduled
+update at 11 PM,update_system,scheduled
+pon música,play_music,immediate
+check emails,check_email,immediate
+haz un respaldo ahora mismo,run_backup,immediate
+haz una actualización,update_system,immediate
+turn off computer,shutdown_computer,immediate
+run system backup,run_backup,immediate
+sube el volumen a las 10 PM ahora mismo,volume_up,scheduled
+silencia el sonido asap,mute_sound,immediate
+cierra la ventana,close_window,immediate
+adjust brightness at night,adjust_brightness,scheduled
+pon música a las 6 de la tarde,play_music,scheduled
+unmute at 9 AM,unmute_sound,scheduled
+update at 11 PM ahora mismo,update_system,scheduled
+pausa la canción,pause_music,immediate
+run backup at midnight asap,run_backup,scheduled
+close all windows,close_window,immediate
+open command prompt,open_terminal,immediate
+launch terminal now,open_terminal,immediate
+take screenshot at 9 AM,take_screenshot,scheduled
+dim the screen ahora mismo,adjust_brightness,immediate
+me gustaría escuchar algo ahora when possible,play_music,immediate
+reinicia el PC,restart_computer,immediate
+turn the volume down,volume_down,immediate
+detén la música más tarde,stop_music,scheduled
+open terminal at 10 AM,open_terminal,scheduled
+update Windows ahora mismo,update_system,scheduled
+restart at 3 AM,restart_computer,scheduled
+pause the track,pause_music,immediate
+open spreadsheet asap,open_excel,immediate
+sube el volumen a las 10 PM,volume_up,scheduled
+activa el sonido,unmute_sound,immediate
+pausar la playlist en una hora,pause_music,immediate
+mute my PC,mute_sound,immediate
+check emails,check_email,immediate
+restart at 3 AM,restart_computer,scheduled
+launch terminal now,open_terminal,immediate
+update Windows,update_system,scheduled
+bloquea la pantalla asap,lock_screen,immediate
+run backup at midnight,run_backup,scheduled
+quiero cerrar esto después,close_window,scheduled
+aumenta el sonido ahora,volume_up,immediate
+open Word document,open_word,immediate
+mute all,mute_sound,immediate
+lock my computer,lock_screen,immediate
+reduce el brillo,adjust_brightness,immediate
+baja el volumen,volume_down,immediate
+quiero cerrar esto después,close_window,scheduled
+quiero bloquear el PC,lock_screen,immediate
+open command prompt,open_terminal,immediate
+reduce el brillo,adjust_brightness,immediate
+open terminal at 10 AM,open_terminal,scheduled
+pausar la playlist en una hora ahora mismo,pause_music,immediate
+open terminal at 10 AM,open_terminal,scheduled
+actualiza el sistema,update_system,immediate
+launch Microsoft Word,open_word,immediate
+detén la música más tarde,stop_music,scheduled
+cerrar la app,close_window,immediate
+ajusta el brillo,adjust_brightness,immediate
+stop all songs when possible,stop_music,immediate
+abre Firefox a las 8 PM,open_browser,scheduled
+open spreadsheet,open_excel,immediate
+cierra la ventana please,close_window,immediate
+pausa la canción,pause_music,immediate
+lock my computer asap,lock_screen,immediate
+run backup at midnight,run_backup,scheduled
+reduce el brillo,adjust_brightness,immediate
+haz un respaldo asap,run_backup,immediate
+check mail in the morning,check_email,scheduled
+sube el volumen a las 10 PM,volume_up,scheduled
+start backup now asap,run_backup,immediate
+open command prompt,open_terminal,immediate
+reproduce mi playlist,play_music,immediate
+check mail in the morning ahora mismo,check_email,scheduled
+open Chrome,open_browser,immediate
+reduce el brillo asap,adjust_brightness,immediate
+turn up the volume please,volume_up,immediate
+sube el volumen,volume_up,immediate
+cierra la ventana,close_window,immediate
+baja el volumen,volume_down,immediate
+shut down PC,shutdown_computer,immediate
+actualiza el sistema please,update_system,immediate
+raise the volume,volume_up,immediate
+quiero ver mis mensajes please,check_email,immediate
+para la música ya when possible,stop_music,immediate
+turn off computer asap,shutdown_computer,immediate
+dim the screen,adjust_brightness,immediate
+abre Excel mañana asap,open_excel,scheduled
+abre Excel mañana,open_excel,scheduled
+apaga el computador,shutdown_computer,immediate
+reduce el brillo,adjust_brightness,immediate
+pause my music asap,pause_music,immediate
+abre Firefox a las 8 PM when possible,open_browser,scheduled
+quiero abrir consola,open_terminal,immediate
+revisa mi correo,check_email,immediate
+lock my computer,lock_screen,immediate
+open command prompt,open_terminal,immediate
+lock screen now,lock_screen,immediate
+open terminal at 10 AM,open_terminal,scheduled
+open terminal at 10 AM,open_terminal,scheduled
+restart computer,restart_computer,immediate
+launch terminal now,open_terminal,immediate
+toma una captura when possible,take_screenshot,immediate
+abre Excel mañana,open_excel,scheduled
+update Windows,update_system,scheduled
+aumenta el sonido ahora,volume_up,immediate
+unmute at 9 AM,unmute_sound,scheduled
+schedule shutdown for tonight asap,shutdown_computer,scheduled
+open Word at 7 AM,open_word,scheduled
+launch browser now,open_browser,immediate
+start backup now,run_backup,immediate
+silenciar todo,mute_sound,immediate
+mute the system tonight,mute_sound,scheduled
+quiero abrir consola,open_terminal,immediate
+pausar la playlist en una hora,pause_music,immediate
+baja el volumen por la noche,volume_down,immediate
+restart at 3 AM,restart_computer,scheduled
+check mail in the morning,check_email,scheduled
+mute the system tonight,mute_sound,scheduled
+set brightness to low now,adjust_brightness,immediate
+quiero reiniciar ahora,restart_computer,immediate
+abre la terminal please,open_terminal,immediate
+sube el volumen,volume_up,immediate
+quiero editar un archivo when possible,open_word,immediate
+restart at 3 AM,restart_computer,scheduled
+haz que escuchar algo ahora,play_music,immediate
+turn off computer,shutdown_computer,immediate
+run backup at midnight,run_backup,scheduled
+silenciar todo when possible,mute_sound,immediate
+activa el sonido,unmute_sound,immediate
+abre Word asap,open_word,immediate
+stop all songs,stop_music,immediate
+bloquea el sistema más tarde,lock_screen,scheduled
+screenshot now,take_screenshot,immediate
+open inbox now,check_email,immediate
+restart at 3 AM,restart_computer,scheduled
+check mail in the morning,check_email,scheduled
+screenshot now,take_screenshot,immediate
+abre Excel mañana,open_excel,scheduled
+para la música ya,stop_music,immediate
+abre Excel mañana,open_excel,scheduled
+cerrar la app,close_window,immediate
+pause my music,pause_music,immediate
+restart at 3 AM,restart_computer,scheduled
+activa el sonido,unmute_sound,immediate
+schedule shutdown for tonight,shutdown_computer,scheduled
+launch Microsoft Word,open_word,immediate
+actualiza el sistema,update_system,immediate
+enable sound,unmute_sound,immediate
+detén la música más tarde,stop_music,scheduled
+lower the volume,volume_down,immediate
+update Windows,update_system,scheduled
+update Windows,update_system,scheduled
+run backup at midnight,run_backup,scheduled
+haz un respaldo,run_backup,immediate
+ajusta el brillo when possible,adjust_brightness,immediate
+run system backup,run_backup,immediate
+haz una actualización,update_system,immediate
+update at 11 PM when possible,update_system,scheduled
+start backup now,run_backup,immediate
+update Windows,update_system,scheduled
+quiero cerrar esto después,close_window,scheduled
+check emails,check_email,immediate
+stop all songs,stop_music,immediate
+puedes cerrar esto después,close_window,scheduled
+enable sound,unmute_sound,immediate
+open Chrome when possible,open_browser,immediate
+pause the track,pause_music,immediate
+open Word at 7 AM ahora mismo,open_word,scheduled
+pause my music asap,pause_music,immediate
+set brightness to low now,adjust_brightness,immediate
+run system update now,update_system,scheduled
+me gustaría abrir una hoja de cálculo,open_excel,immediate
+abre Excel mañana,open_excel,scheduled
+take a screenshot,take_screenshot,immediate
+abre la terminal,open_terminal,immediate
+silencia el sonido,mute_sound,immediate
+mute the system tonight,mute_sound,scheduled
+bloquea la pantalla,lock_screen,immediate
+raise the volume,volume_up,immediate
+bloquea la pantalla,lock_screen,immediate
+run system update now,update_system,scheduled
+start backup now,run_backup,immediate
+reproduce mi playlist,play_music,immediate
+abre Firefox a las 8 PM,open_browser,scheduled
+lock my computer,lock_screen,immediate
+abre Firefox a las 8 PM,open_browser,scheduled
+revisa mi correo ahora mismo,check_email,immediate
+pon música,play_music,immediate
+puedes reiniciar ahora,restart_computer,immediate
+pause my music,pause_music,immediate
+restart at 3 AM,restart_computer,scheduled
+pon música a las 6 de la tarde,play_music,scheduled
+reproduce mi playlist,play_music,immediate
+pon música,play_music,immediate
+bloquea la pantalla,lock_screen,immediate
+stop playing music please,stop_music,immediate
+quiero cerrar esto después,close_window,scheduled
+haz una captura de pantalla,take_screenshot,immediate
+reinicia el PC,restart_computer,immediate
+enable sound when possible,unmute_sound,immediate
+apaga el computador asap,shutdown_computer,immediate
+raise the volume when possible,volume_up,immediate
+restart at 3 AM ahora mismo,restart_computer,scheduled
+detén la música más tarde,stop_music,scheduled
+pausa la canción,pause_music,immediate
+lower the volume,volume_down,immediate
+puedes abrir una hoja de cálculo,open_excel,immediate
+unmute at 9 AM,unmute_sound,scheduled
+silenciar todo,mute_sound,immediate
+update at 11 PM,update_system,scheduled
+sube el volumen,volume_up,immediate
+quiero ver mis mensajes,check_email,immediate
+check mail in the morning,check_email,scheduled
+abre Firefox a las 8 PM when possible,open_browser,scheduled
+ajusta el brillo,adjust_brightness,immediate
+para la música ya,stop_music,immediate
+mute the system tonight,mute_sound,scheduled
+lower the volume,volume_down,immediate
+update at 11 PM,update_system,scheduled
+detén la música un momento asap,pause_music,immediate
+desactiva el silencio ahora mismo,unmute_sound,immediate
+baja el volumen,volume_down,immediate
+run backup at midnight,run_backup,scheduled
+unmute at 9 AM,unmute_sound,scheduled
+bloquea el sistema más tarde,lock_screen,scheduled
+open command prompt ahora mismo,open_terminal,immediate
+bloquea la pantalla,lock_screen,immediate
+open inbox now,check_email,immediate
+pon música a las 6 de la tarde,play_music,scheduled
+abre el navegador,open_browser,immediate
+detén la música más tarde,stop_music,scheduled
+set brightness to low now please,adjust_brightness,immediate
+pausar la playlist en una hora,pause_music,immediate
+take screenshot at 9 AM,take_screenshot,scheduled
+turn up the volume,volume_up,immediate
+reproduce mi playlist,play_music,immediate
+check mail in the morning,check_email,scheduled
+raise the volume,volume_up,immediate
+take screenshot at 9 AM ahora mismo,take_screenshot,scheduled
+restart computer when possible,restart_computer,immediate
+open Word document,open_word,immediate
+run system backup,run_backup,immediate
+adjust brightness at night,adjust_brightness,scheduled
+schedule shutdown for tonight,shutdown_computer,scheduled
+run system update now,update_system,scheduled
+enable sound,unmute_sound,immediate
+restart computer,restart_computer,immediate
+open Excel file now,open_excel,immediate
+schedule shutdown for tonight,shutdown_computer,scheduled
+stop playing music,stop_music,immediate
+mute the system tonight,mute_sound,scheduled
+lower the volume,volume_down,immediate
+toma una captura,take_screenshot,immediate
+take screenshot at 9 AM,take_screenshot,scheduled
+apaga el computador,shutdown_computer,immediate
+quiero cerrar esto después,close_window,scheduled
+ajusta el brillo,adjust_brightness,immediate
+turn off computer,shutdown_computer,immediate
+launch Microsoft Word,open_word,immediate
+quiero cerrar esto después,close_window,scheduled
+play some music,play_music,immediate
+quiero escuchar algo ahora,play_music,immediate
+detén la música más tarde,stop_music,scheduled
+bloquea el sistema más tarde,lock_screen,scheduled
+por favor ver mis mensajes,check_email,immediate
+pon música a las 6 de la tarde,play_music,scheduled
+lock screen now,lock_screen,immediate
+por favor apagar todo ya,shutdown_computer,immediate
+cerrar la app please,close_window,immediate
+run backup at midnight,run_backup,scheduled
+check mail in the morning,check_email,scheduled
+close all windows,close_window,immediate
+reduce el sonido,volume_down,immediate
+quiero ver mis mensajes please,check_email,immediate
+reboot system,restart_computer,immediate
+revisa mi correo ahora mismo,check_email,immediate
+haz que bloquear el PC please,lock_screen,immediate
+enable sound,unmute_sound,immediate
+update Windows,update_system,scheduled
+unmute my PC,unmute_sound,immediate
+open command prompt,open_terminal,immediate
+restart computer,restart_computer,immediate
+quiero ver mis mensajes please,check_email,immediate
+check mail in the morning,check_email,scheduled
