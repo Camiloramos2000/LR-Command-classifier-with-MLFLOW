@@ -73,13 +73,6 @@ It focuses on building a complete ML pipeline, from preprocessing to model regis
    <img src="versions.png" alt="stage_mlflow"  width="50%" height="50%" >
 </div>
 
-#### versions with descriptions
-<div style="text-align: center;">
-   <img src="versions.png" alt="stage_mlflow"  width="50%" height="50%" >
-</div>
-
-
-
 ---
 
 ## 🧩 Project Structure
