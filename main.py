@@ -5,6 +5,9 @@ from Model import ModelLR
 from Data import Data
 import pandas as pd
 import uuid
+from DecodedPipelineWrapper import DecodedPipelineWrapper
+
+
 
 
 # ==========================================================
@@ -58,10 +61,14 @@ if __name__ == "__main__":
         # ⚙️ MODEL PARAMETERS
         # -------------------------------------------
         params = {
-            "penalty": "l2",
-            "C": 0.1,
-            "solver": "lbfgs",
-            "max_iter": 1000
+            "C":10.0,                     # Menos regularización → más capacidad de aprender
+            "penalty":"l2",               # Regularización estándar
+            "solver":"lbfgs",             # Robusto y eficiente para multiclase
+            "multi_class":"auto",         # Detecta automáticamente
+            "max_iter":2000,              # Aumenta iteraciones para convergencia estable
+            "class_weight":"balanced",    # Compensa si tienes clases desbalanceadas
+            "n_jobs":-1,                  # Usa todos los núcleos disponibles
+            "random_state": 42
         }
 
         modellr = ModelLR(parameters=params)
@@ -71,9 +78,6 @@ if __name__ == "__main__":
         # 🧠 MODEL TRAINING
         # -------------------------------------------
         pipeline, accuracy, precision, recall, f1, elapsed_time = modellr.train()
-
-        order = "restart the system"
-        prediction, prob_max, elapsed_time = modellr.test(order)
 
         print("\n📊 Logging metrics and parameters to MLflow...\n")
 
@@ -92,13 +96,6 @@ if __name__ == "__main__":
         print("-" * 80 + "\n")
 
         # -------------------------------------------
-        # 🧪 MODEL TESTING
-        # -------------------------------------------
-        print("✅ Test completed successfully.")
-        print("🗂️ Test results logged to MLflow.\n")
-        print("-" * 80 + "\n")
-
-        # -------------------------------------------
         # 📦 MODEL REGISTRATION IN MLFLOW MODEL REGISTRY
         # -------------------------------------------
         print("=" * 80)
@@ -107,6 +104,10 @@ if __name__ == "__main__":
 
         client = MlflowClient()
         model_uri = f"runs:/{run.info.run_id}/{modellr.name}"
+        
+        #input de ejemplo       
+        order = "Apagar el computador"
+        prediction, prob_max, elapsed_time = modellr.test(order)
 
         input_example = data.X
         signature = infer_signature(data.X, prediction)
@@ -115,10 +116,16 @@ if __name__ == "__main__":
             "type_model": "Logistic Regression",
             "created_by": "Camilo Ramos"
         }
+        
+        encoder_fitted = modellr.data.encoder
+        
+        decoded_pipeline = DecodedPipelineWrapper(modellr.pipeline, encoder_fitted)
+        
+        
 
         model_info = mlflow.sklearn.log_model(
             name=modellr.name,
-            sk_model=modellr.pipeline,
+            sk_model=decoded_pipeline,
             input_example=input_example,
             signature=signature,
             tags=tag
@@ -190,3 +197,4 @@ if __name__ == "__main__":
         print("=" * 80)
         print("🎯 FULL PROCESS COMPLETED SUCCESSFULLY")
         print("=" * 80 + "\n")
+
