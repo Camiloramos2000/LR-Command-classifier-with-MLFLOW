@@ -5,6 +5,7 @@ from sklearn.pipeline import Pipeline
 from Transformer import SentenceTransformerVectorizer
 from Data import Data
 import time
+import pickle
 
 
 # ==========================================================
@@ -12,12 +13,14 @@ import time
 # ==========================================================
 class ModelLR:
     def __init__(self, dataset_path="commands_dataset.csv", parameters=None):
-        self.name = "LogisticRegression"
+        self.name = "Nova_classifier_model"
         self.model = LogisticRegression(**parameters)
         self.dataset_path = dataset_path
         self.data = Data(self.dataset_path)
         self.pipeline = None
         self.parameters = parameters
+        self.nova_classifier = None
+
 
     # ------------------------------------------------------
     # ⚙️ PIPELINE BUILDING
@@ -123,5 +126,18 @@ class ModelLR:
         print(f"📈 Maximum probability: {prob_max:.4f}")
         print(f"⏱️  Inference time: {elapsed_time:.4f} seconds")
         print("-" * 80 + "\n")
+        
+        self.save_model("model.pkl")
+
 
         return prediction_decoded, prob_max, elapsed_time
+
+    def save_model(self, path):
+        try:
+            with open(path, 'wb') as f:
+                pickle.dump(self.pipeline, f)
+        except Exception as e:
+            print(f"❌ Error saving the model: {e}")
+
+    
+    
