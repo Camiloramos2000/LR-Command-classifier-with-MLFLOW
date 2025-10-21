@@ -31,6 +31,9 @@ class Data:
             # --- 4️⃣ Create combined label column ---
             df["label"] = df["command"].astype(str) + " " + df["intent"].astype(str)
             df = df.drop(columns=["command", "intent"])
+            df["label"] = df["label"].str.replace("_", " ")
+            
+            print (df)
 
             self.X = df["text"].values
             self.y = df["label"].values
@@ -81,3 +84,5 @@ class Data:
         except Exception as e:
             print(f"⚠️ Error cleaning text: {e}")
             return ""
+
+
