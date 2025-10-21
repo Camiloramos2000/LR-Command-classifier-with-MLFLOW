@@ -4,65 +4,65 @@
 
 ---
 
-## 🚀 Project Overview
+# 🚀 Project Overview
 
 This project was developed as a practical exercise for **Machine Learning model tracking and deployment** using **MLflow**.
 It focuses on building a complete ML pipeline, from preprocessing to model registration and production deployment.
 
 ### Key Learning Objectives
 
-1. Train a **Logistic Regression model** using example data (`scikit-learn`).
-2. Log model **hyperparameters** (`C`, `regularization`, `solver`) and **metrics** (`accuracy`, `f1-score`) with MLflow.
+## 1. Train a **Logistic Regression model** using example data (`scikit-learn`).
+## 2. Log model **hyperparameters** (`C`, `regularization`, `solver`) and **metrics** (`accuracy`, `f1-score`) with MLflow.
 
-# Hyperparameters
+### Hyperparameters
 
 <div style="text-align: center;">
    <img src="images/parameters.png" alt="parameters"  width="50%" height="50%" >
 </div>
 
-# Metrics
+### Metrics
 
 <div style="text-align: center;">
    <img src="images/parameters.png" alt="Metrics"  width="50%" height="50%" >
 </div>
 
-3. Use `mlflow.sklearn.log_model()` to **save and version** the trained model.
+## 3. Use `mlflow.sklearn.log_model()` to **save and version** the trained model.
 
-# code
+### code
 
 <div style="text-align: center;">
    <img src="images/register.png" alt="register_code"  width="50%" height="50%" >
 </div>
 
-4. Register the model in the **MLflow Model Registry** with a unique name.
+## 4. Register the model in the **MLflow Model Registry** with a unique name.
 
-# Model
+### Model
 
 <div style="text-align: center;">
    <img src="images/models.png" alt="models"  width="50%" height="50%" >
 </div>
 
-5. Promote the model across lifecycle stages:
+## 5. Promote the model across lifecycle stages:
 
    ```
    None → Staging → Production
    ```
 
-# Stage transition
+### Stage transition
 
 <div style="text-align: center;">
    <img src="images/stage.png" alt="stage"  width="50%" height="50%" >
 </div>
 
-# Stage transition in MLFLOW UI
+### Stage transition in MLFLOW UI
 
 <div style="text-align: center;">
    <img src="images/stage_mlflow.png" alt="stage_mlflow"  width="50%" height="50%" >
 </div>
 
-6. Observe model versions, descriptions, and performance metrics in the MLflow UI.
+## 6. Observe model versions, descriptions, and performance metrics in the MLflow UI.
 
-# versions with descriptions
+### versions with descriptions
 
 <div style="text-align: center;">
    <img src="images/versions.png" alt="stage_mlflow"  width="50%" height="50%" >
